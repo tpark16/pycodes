@@ -1,0 +1,730 @@
+[
+    {
+        "tableNm": "bml_admb_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "bml_badm_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "bml_bldg_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "bml_carc_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "bml_elev_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "bml_elev_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "bml_etcp_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "bml_grnd_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "bml_hadm_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "bml_i005_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "bml_i010_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "bml_i025_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "bml_i050_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "bml_pole_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "bml_rail_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "bml_rivr_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "bml_symb_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "bml_wall_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "gj_1997_1",
+        "write": "y"
+    },
+    {
+        "tableNm": "gj_2001_1",
+        "write": "y"
+    },
+    {
+        "tableNm": "gj_2002_1",
+        "write": "y"
+    },
+    {
+        "tableNm": "gj_2008_1",
+        "write": "y"
+    },
+    {
+        "tableNm": "gj_2010_1",
+        "write": "y"
+    },
+    {
+        "tableNm": "gj_2011_1",
+        "write": "y"
+    },
+    {
+        "tableNm": "gj_2013_1",
+        "write": "y"
+    },
+    {
+        "tableNm": "gj_2014_1",
+        "write": "y"
+    },
+    {
+        "tableNm": "gj_2016_1",
+        "write": "y"
+    },
+    {
+        "tableNm": "gj_2017_1",
+        "write": "y"
+    },
+    {
+        "tableNm": "lt_c_uq111",
+        "write": "y"
+    },
+    {
+        "tableNm": "lt_c_uq112",
+        "write": "y"
+    },
+    {
+        "tableNm": "lt_c_uq113",
+        "write": "y"
+    },
+    {
+        "tableNm": "lt_c_uq114",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_admn_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_brdg_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_busl_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_bycp_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_byst_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_cctv_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_cmdt_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_conv_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_cros_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_ctlr_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_etct_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_etct_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_etct_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_evrd_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_exbn_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_excv_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_expl_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_exsb_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_help_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_mdst_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_moas_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_nspv_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_ocup_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_ocup_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_ocup_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_over_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_ovps_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_pakp_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_pave_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_pdcr_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_prot_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_rbln_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_rbln_ls_2",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_rdar_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_rdsn_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_refr_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_refr_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_rmir_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_rnum_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_rout_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_sbwy_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_scho_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_sclt_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_sdhp_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_sepc_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_sget_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_smrw_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_soil_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_spdm_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_sqar_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_stat_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_stlt_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_swlk_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_tbrd_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_tfsn_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_trct_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_tree_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_trnl_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_trsn_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_ugrd_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_uprl_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_urbc_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "rdl_walk_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "swl_aodp_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "swl_aodr_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "swl_clay_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "swl_clpi_lm",
+        "write": "y"
+    },
+    {
+        "tableNm": "swl_conn_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "swl_dept_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "swl_dodp_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "swl_dodr_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "swl_dran_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "swl_manh_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "swl_meas_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "swl_pipe_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "swl_pipe_lm",
+        "write": "y"
+    },
+    {
+        "tableNm": "swl_pres_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "swl_pump_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "swl_rsph_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "swl_side_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "swl_spew_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "swl_spot_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "swl_vent_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "swl_vswd_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "tl_scco_sig",
+        "write": "y"
+    },
+    {
+        "tableNm": "tl_scco_sig_label",
+        "write": "y"
+    },
+    {
+        "tableNm": "tl_spbd_buld",
+        "write": "y"
+    },
+    {
+        "tableNm": "tl_spbd_entrc",
+        "write": "y"
+    },
+    {
+        "tableNm": "tl_sprd_intrvl",
+        "write": "y"
+    },
+    {
+        "tableNm": "tl_sprd_manage",
+        "write": "y"
+    },
+    {
+        "tableNm": "tl_sprd_rw",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_bcon_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_bcon_lm",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_bman_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_bopc_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_bpip_lm",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_bpip_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_bpol_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_btrs_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_bvnt_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_glpi_lm",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_gman_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_gmnt_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_gpip_lm",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_gprs_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_gval_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_havt_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_hhnd_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_hlek_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_hman_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_hpip_lm",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_hpip_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_kman_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_kpip_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_kpip_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "ufl_kpol_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_aral_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_aras_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_bare_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_clos_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_clpi_lm",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_conn_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_fire_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_flow_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_gain_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_gand_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_gbnd_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_head_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_leak_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_manh_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_meta_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_meta_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_omet_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_pinf_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_pipe_lm",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_pipe_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_pres_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_prga_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_ptcn_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_puri_as",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_refr_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_refr_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_rfid_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_rsrv_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_serv_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_sply_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_stpi_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_supp_ls",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_valv_ps",
+        "write": "y"
+    },
+    {
+        "tableNm": "wtl_wcln_ps",
+        "write": "y"
+    }
+]
