@@ -132,7 +132,6 @@ class main(QMainWindow, FORM_CLASS):
         self.result['resultList'] = self.temp_notice
         GWUtils.dict_to_json('res/notice.json', self.result)
         self.setUi()
-        # return QMessageBox.information('알림', '성공적으로 저장했습니다.')
 
     def loginAdd(self):
         row = self.loginTable.rowCount()
@@ -197,7 +196,6 @@ class main(QMainWindow, FORM_CLASS):
         self.layerTable.setEditTriggers(QAbstractItemView.DoubleClicked)
 
     def layerSav(self):
-        # layer_dict = dict()
         layer_list = []
         for row in range(self.layerTable.rowCount()):
             layerName = self.layerTable.item(row, 0).data(Qt.DisplayRole)
@@ -212,9 +210,7 @@ class main(QMainWindow, FORM_CLASS):
 
             layer_list.append({'tableNm': layerName, 'write': write})
 
-        # print(layer_list)
         GWUtils.dict_to_json('res/layer.json', layer_list)
-        # self.setUi()
 
         return QMessageBox.information(self, '알림', '성공적으로 저장했습니다.')
 
@@ -225,9 +221,6 @@ class main(QMainWindow, FORM_CLASS):
         return QMessageBox.information(self, '알림', '성공적으로 실행했습니다.')
 
 
-        # t = threading.Thread(target=start_server())
-        # t.daemon = True
-        # t.start()
 
 if __name__ == "__main__":
 
