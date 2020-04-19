@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <NF_ID>고유식별자 아이디</NF_ID>
+  <ADZONE_NM>행정구역 명칭</ADZONE_NM>
+  <LEGLCD_SE>법정동코드</LEGLCD_SE>
+  <ADZONE_SE>행정구역 구분</ADZONE_SE>
+  <OBJECT_GT>객체 지오메트리</OBJECT_GT>
+  <OBCHG_DT type="date">객체변동 일시</OBCHG_DT>
+  <RSREG_DT type="date">성과등록 일시</RSREG_DT>
+  <OBCHG_SE>객체변동 구분</OBCHG_SE>
+  <MNENT_NM>제작업체 명</MNENT_NM>
+  <ININS_SE>정보완전성 검수 구분</ININS_SE>
+  <LCINS_SE>위치정확성검수 구분</LCINS_SE>
+  <LOINS_SE>논리일관성검수 구분</LOINS_SE>
+  <TIINS_SE>시간정확성검수 구분</TIINS_SE>
+  <THINS_SE>주제정확성검수 구분</THINS_SE>
+  <ERROR_DC>오류 설명</ERROR_DC>
+  <DBREG_DT type="date">데이터베이스등록 일시</DBREG_DT>
+  <FZON_NM>시설구역 명칭</FZON_NM>
+  <FZONBN_SE>시설구역경계 구분</FZONBN_SE>
+  <MOLIT_UFID>국토부 UFID</MOLIT_UFID>
+  <ROAD_NO>도로번호</ROAD_NO>
+  <ROAD_NM>도로명칭</ROAD_NM>
+  <ROAD_SE>도로구분</ROAD_SE>
+  <PMTR_SE>포장재질 구분</PMTR_SE>
+  <EDENNC_AT>분리대유무</EDENNC_AT>
+  <CARTRK_CO>차로수</CARTRK_CO>
+  <ROAD_BT>도로폭</ROAD_BT>
+  <OSPS_SE>일방통행 구분</OSPS_SE>
+  <MTRWY_SE>자동차전용도로 구분</MTRWY_SE>
+  <REFNF_ID>참조NFID</REFNF_ID>
+  <BCYKND_SE>자전거도로종류 구분</BCYKND_SE>
+  <ARRFC_NM>면형도로시설 명칭</ARRFC_NM>
+  <ARRFCKD_SE>면형교통시설종류 구분</ARRFCKD_SE>
+  <ARTFCTY_SE>면형교통시설유형 구분</ARTFCTY_SE>
+  <ARRFCPH_SE>면형도로시설위상관계 구분</ARRFCPH_SE>
+  <ARRFCMT_SE>면형도로시설재질 구분</ARRFCMT_SE>
+  <LNRFCKD_SE>선형도로시설종류 구분</LNRFCKD_SE>
+  <LNRFCST_SE>선형도로시설구조 구분</LNRFCST_SE>
+  <PTRFC_NM>점형도로시설 명칭</PTRFC_NM>
+  <PTRFCKD_SE>점형도로시설종류 구분</PTRFCKD_SE>
+  <RLWAY_NM>철도선로명칭</RLWAY_NM>
+  <RLROAD_SE>철도구분</RLROAD_SE>
+  <RLWTY_SE>철도선로유형 구분</RLWTY_SE>
+  <ARWFC_NM>면형철도시설 명칭</ARWFC_NM>
+  <ARWFCKD_SE>면형철도시설종류 구분</ARWFCKD_SE>
+  <PTWFC_NM>점형철도시설 명칭</PTWFC_NM>
+  <PTWFCKD_SE>점형철도시설종류 구분</PTWFCKD_SE>
+  <ARAFC_NM>면형공항시설 명칭</ARAFC_NM>
+  <ARAFCKD_SE>면형공항시설종류 구분</ARAFCKD_SE>
+  <LNAFCKD_SE>선형공항시설종류 구분</LNAFCKD_SE>
+  <PTAFC_NM>면형공항시설 명칭</PTAFC_NM>
+  <PTAFCKD_SE>점형공항시설종류 구분</PTAFCKD_SE>
+  <ARHFC_NM>면형항만시설 명칭</ARHFC_NM>
+  <ARHFCKD_SE>면형항만시설종류 구분</ARHFCKD_SE>
+  <PTHFC_NM>점형항만시설 명칭</PTHFC_NM>
+  <PTHFCKD_SE>점형항만시설종류 구분</PTHFCKD_SE>
+  <BPRP_SE>건물용도 구분</BPRP_SE>
+  <BULD_NM>건물 명칭</BULD_NM>
+  <BATC_NM>건물부 명칭</BATC_NM>
+  <BULD_SE>건물 구분</BULD_SE>
+  <BFLR_CO>건물층 수</BFLR_CO>
+  <PNU_NO>PNU 번호</PNU_NO>
+  <USECON_DE>사용승인 일</USECON_DE>
+  <RNCODE_DC>도로명코드</RNCODE_DC>
+  <BLDMN_NO>건물번호 본번</BLDMN_NO>
+  <BLDSL_NO>건물번호 부번</BLDSL_NO>
+  <ADCLS_SE>부속시설 구분</ADCLS_SE>
+  <ARSFC_NM>면형구조시설 명칭</ARSFC_NM>
+  <ARSFCKD_SE>면형구조시설종류 구분</ARSFCKD_SE>
+  <LNSFC_NM>선형구조시설 명칭</LNSFC_NM>
+  <LNSFCKD_SE>선형구조시설종류 구분</LNSFCKD_SE>
+  <PTSFC_NM>점형구조시설 명칭</PTSFC_NM>
+  <PTSFCKD_SE>점형구조시설종류 구분</PTSFCKD_SE>
+  <CTRLN_SE>등고선 구분</CTRLN_SE>
+  <TPGRPH_SE>지형 구분</TPGRPH_SE>
+  <CTRLN_HG>등고선 높이</CTRLN_HG>
+  <SHORLNE_SE>해안선 구분</SHORLNE_SE>
+  <ALPT_HG>표고점 높이</ALPT_HG>
+  <PTPGR_NM>점형지형 명칭</PTPGR_NM>
+  <PTPGR_SE>점형지형 구분</PTPGR_SE>
+  <LNPGR_SE>선형지형 구분</LNPGR_SE>
+  <LNPGR_LT>선형지형 길이</LNPGR_LT>
+  <LNPGR_HG>선형지형 높이</LNPGR_HG>
+  <ARPGR_NM>면형지형 명칭</ARPGR_NM>
+  <ARPGR_SE>면형지형 구분</ARPGR_SE>
+  <RIVER_NO>하천 번호</RIVER_NO>
+  <RIVER_NM>하천 명칭</RIVER_NM>
+  <RIVER_SE>하천 구분</RIVER_SE>
+  <LKMH_NM>호소 명칭</LKMH_NM>
+  <WTCORFC_NM>수로시설 명칭</WTCORFC_NM>
+  <WTCORFC_SE>수로시설 구분</WTCORFC_SE>
+  <VTN_SE>식생 구분</VTN_SE>
+  <POI_NM>관심지점 명칭</POI_NM>
+  <POI_CL_DC>관심지점 분류 설명</POI_CL_DC>
+  <ORGTY_SE>출처유형 구분</ORGTY_SE>
+  <ORIGIN_SE>출처 구분</ORIGIN_SE>
+  <ENGL_NM>영어 명칭</ENGL_NM>
+  <CHNLNG_NM>중국어 명칭</CHNLNG_NM>
+  <JPN_NM>일본어 명칭</JPN_NM>
+  <REFRN_ID>참조 아이디</REFRN_ID>
+  <GRID_NO>격자 번호</GRID_NO>
+  <MAPIDCD_NO>도엽코드 번호</MAPIDCD_NO>
+  <CHANGE_INFO_ID>변동정보 ID</CHANGE_INFO_ID>
+  <CHANGE_SN>변동 일련번호</CHANGE_SN>
+  <CHANGE_PROCESS_SE>변동 처리 구분</CHANGE_PROCESS_SE>
+  <UPDT_BSNS_NM>갱신 사업 명</UPDT_BSNS_NM>
+  <UPDT_BSNS_YY>갱신 사업 년</UPDT_BSNS_YY>
+  <UPDT_BSNS_SE>갱신 사업 구분</UPDT_BSNS_SE>
+  <CONPR_AT_SE>승인처리 여부 구분</CONPR_AT_SE>
+  <CONPR_DT type="date">승인처리 일시</CONPR_DT>
+  <RETURN_RESN_DC>반려 사유 설명</RETURN_RESN_DC>
+  <CONFMER_ID>승인자 ID</CONFMER_ID>
+  <TMSRES_SN>시계열 일련번호</TMSRES_SN>
+  <TMSRES_REGIST_DT type="date">시계열 등록 일시</TMSRES_REGIST_DT>
+  <MESRMTH_SE>수정측량방법</MESRMTH_SE>
+  <CSCHG_SE>객체변동구분</CSCHG_SE>
+  <USGSTT_SE>도로사용상태</USGSTT_SE>
+  <BNODE_NFID>시작노드고유번호</BNODE_NFID>
+  <ENODE_NFID>끝노드고유번호</ENODE_NFID>
+  <RDLINK_SE>차도링크구분</RDLINK_SE>
+  <TFCEQP_SE>교통시설종류 구분</TFCEQP_SE>
+  <LEGLCD_SE1>법정동코드1</LEGLCD_SE1>
+  <LEGLCD_SE2>법정동코드2</LEGLCD_SE2>
+  <RDNODE_NM>차도노드명칭</RDNODE_NM>
+  <RDNODE_SE>차도노드구분</RDNODE_SE>
+  <CLINK_CO>연결링크개수</CLINK_CO>
+  <NBND_NFID>인접노드번호</NBND_NFID>
+  <BNODE_ID>시작노드고유번호</BNODE_ID>
+  <ENODE_ID>끝노드고유번호</ENODE_ID>
+  <RLWLINK_SE>철도링크구분</RLWLINK_SE>
+  <RLWAYTY_SE>철도선로유형 구분</RLWAYTY_SE>
+  <RLNODE_NM>철도노드명칭</RLNODE_NM>
+  <RLNODE_SE>철도노드구분</RLNODE_SE>
+  <SHORLNE_OR>해안선 출처</SHORLNE_OR>
+  <SHORLNE_ST>해안선 형태</SHORLNE_ST>
+</root>

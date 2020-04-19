@@ -1,0 +1,735 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+      <WTCORFC_SE>
+        <code desc="WWF001(제방상단)" value="WWF001" />
+        <code desc="WWF002(제방하단)" value="WWF002" />
+        <code desc="WWF003(방조제상단)" value="WWF003" />
+        <code desc="WWF004(방조제하단)" value="WWF004" />
+        <code desc="WWF005(방파제상단)" value="WWF005" />
+        <code desc="WWF006(방파제하단)" value="WWF006" />
+        <code desc="WWF007(소파블럭)" value="WWF007" />
+        <code desc="WWF008(공업용수로)" value="WWF008" />
+        <code desc="WWF009(농업용수로)" value="WWF009" />
+        <code desc="WWF010(수문)" value="WWF010" />
+        <code desc="WWF011(배수갑문)" value="WWF011" />
+        <code desc="WWF012(보)" value="WWF012" />
+        <code desc="WWF013(암거)" value="WWF013" />
+        <code desc="WWF014(측구)" value="WWF014" />
+        <code desc="WWF015(잔교)" value="WWF015" />
+      </WTCORFC_SE>
+      <VTN_SE>
+        <code desc="FLD001(논)" value="FLD001" />
+        <code desc="FLD002(밭)" value="FLD002" />
+        <code desc="FLD003(과수원)" value="FLD003" />
+        <code desc="FLD004(목초지)" value="FLD004" />
+        <code desc="FLD005(산지)" value="FLD005" />
+        <code desc="VGC001(논)" value="VGC001" />
+        <code desc="VGC002(밭)" value="VGC002" />
+        <code desc="VGC003(과수원)" value="VGC003" />
+        <code desc="VGC004(목초지)" value="VGC004" />
+        <code desc="VGC005(산지)" value="VGC005" />
+      </VTN_SE>
+      <TPGRPH_SE>
+        <code desc="TOP001(볼록지)" value="TOP001" />
+        <code desc="TOP002(오목지)" value="TOP002" />
+        <code desc="TPC001(볼록지)" value="TPC001" />
+        <code desc="TPC002(오목지)" value="TPC002" />
+      </TPGRPH_SE>
+      <SHORLNE_SE>
+        <code desc="CLD001(육지)" value="CLD001" />
+        <code desc="CLD002(섬)" value="CLD002" />
+        <code desc="CLC001(육지)" value="CLC001" />
+        <code desc="CLC002(섬)" value="CLC002" />
+      </SHORLNE_SE>
+      <ROAD_SE>
+        <code desc="RDD001(고속국도)" value="RDD001" />
+        <code desc="RDD002(일반국도)" value="RDD002" />
+        <code desc="RDD003(지방도)" value="RDD003" />
+        <code desc="RDD004(특별시도)" value="RDD004" />
+        <code desc="RDD005(광역시도)" value="RDD005" />
+        <code desc="RDD006(시도)" value="RDD006" />
+        <code desc="RDD007(군도)" value="RDD007" />
+        <code desc="RDD008(구도)" value="RDD008" />
+        <code desc="RDD009(공사중도로)" value="RDD009" />
+        <code desc="RDD010(면리간도로)" value="RDD010" />
+        <code desc="RDD011(부지안도로)" value="RDD011" />
+        <code desc="RDD012(건설예정도로)" value="RDD012" />
+        <code desc="RDD013(터널안도로)" value="RDD013" />
+        <code desc="RDD014(소로)" value="RDD014" />
+        <code desc="RDC001(고속국도)" value="RDC001" />
+        <code desc="RDC002(일반국도)" value="RDC002" />
+        <code desc="RDC003(지방도)" value="RDC003" />
+        <code desc="RDC004(특별시도)" value="RDC004" />
+        <code desc="RDC005(광역시도)" value="RDC005" />
+        <code desc="RDC006(시도)" value="RDC006" />
+        <code desc="RDC007(군도)" value="RDC007" />
+        <code desc="RDC008(구도)" value="RDC008" />
+        <code desc="RDC009(공사중도로)" value="RDC009" />
+        <code desc="RDC010(면리간도로)" value="RDC010" />
+        <code desc="RDC011(부지안도로)" value="RDC011" />
+        <code desc="RDC012(건설예정도로)" value="RDC012" />
+        <code desc="RDC013(터널안도로)" value="RDC013" />
+        <code desc="RDC014(소로)" value="RDC014" />
+      </ROAD_SE>
+      <RLWTY_SE>
+        <code desc="RRS001(철도중심선)" value="RRS001" />
+        <code desc="RRS002(선로)" value="RRS002" />
+      </RLWTY_SE>
+      <RLROAD_SE>
+        <code desc="RRD001(고속철도)" value="RRD001" />
+        <code desc="RRD002(보통철도)" value="RRD002" />
+        <code desc="RRD003(특수철도)" value="RRD003" />
+        <code desc="RRD004(지하철(지상))" value="RRD004" />
+        <code desc="RRD005(삭도(케이블카))" value="RRD005" />
+        <code desc="RRD006(모노레일)" value="RRD006" />
+        <code desc="RRD999(기타)" value="RRD999" />
+        <code desc="RRC001(고속철도)" value="RRC001" />
+        <code desc="RRC002(보통철도)" value="RRC002" />
+        <code desc="RRC003(특수철도)" value="RRC003" />
+        <code desc="RRC004(지하철(지상))" value="RRC004" />
+        <code desc="RRC005(삭도(케이블카))" value="RRC005" />
+        <code desc="RRC006(모노레일)" value="RRC006" />
+        <code desc="RRC999(기타)" value="RRC999" />
+      </RLROAD_SE>
+      <RIVER_SE>
+        <code desc="RCD001(국가하천)" value="RCD001" />
+        <code desc="RCD002(지방하천)" value="RCD002" />
+        <code desc="RCD003(소하천)" value="RCD003" />
+        <code desc="RCD004(기타하천)" value="RCD004" />
+        <code desc="RCD005(세류)" value="RCD005" />
+        <code desc="RVC001(국가하천)" value="RVC001" />
+        <code desc="RVC002(지방하천)" value="RVC002" />
+        <code desc="RVC003(소하천)" value="RVC003" />
+        <code desc="RVC004(기타하천)" value="RVC004" />
+        <code desc="RVC005(세류)" value="RVC005" />
+      </RIVER_SE>
+      <PTWFCKD_SE>
+        <code desc="RAF001(철도정거장)" value="RAF001" />
+        <code desc="RAF002(지하철역)" value="RAF002" />
+        <code desc="RAF003(철도/지하철 공용)" value="RAF003" />
+        <code desc="RAF004(승강장)" value="RAF004" />
+        <code desc="RAF999(기타)" value="RAF999" />
+      </PTWFCKD_SE>
+      <ARWFCKD_SE>
+        <code desc="PLW001(승강장)" value="PLW001" />
+      </ARWFCKD_SE>
+      <PTSFCKD_SE>
+        <code desc="WET001(우물/약수터)" value="WET001" />
+        <code desc="WET004(온천시설)" value="WET004" />
+        <code desc="WET006(낚시터)" value="WET006" />
+        <code desc="MNS000(광산(미분류))" value="MNS000" />
+        <code desc="MNS001(광산(운영중))" value="MNS001" />
+        <code desc="MNS002(광산(폐쇄))" value="MNS002" />
+        <code desc="PPD000(채취장(미분류))" value="PPD000" />
+        <code desc="PPD001(채취장(채석장))" value="PPD001" />
+        <code desc="PPD002(채취장(토취장))" value="PPD002" />
+        <code desc="OSD000(관측소(미분류))" value="OSD000" />
+        <code desc="OSD001(관측소(수위))" value="OSD001" />
+        <code desc="OSD002(관측소(유량))" value="OSD002" />
+        <code desc="OSD003(관측소(수질))" value="OSD003" />
+        <code desc="OSD004(관측소(풍향/풍속))" value="OSD004" />
+        <code desc="OSD005(관측소(대기오염))" value="OSD005" />
+        <code desc="OSD006(관측소(파랑))" value="OSD006" />
+        <code desc="OSD007(관측소(지질))" value="OSD007" />
+        <code desc="OSD008(관측소(지진))" value="OSD008" />
+        <code desc="CAT000(문화재(미분류))" value="CAT000" />
+        <code desc="CAT001(문화재(비/탑/각))" value="CAT001" />
+        <code desc="CAT002(문화재(정자))" value="CAT002" />
+        <code desc="CAT003(문화재(암자))" value="CAT003" />
+        <code desc="CAT004(문화재(절))" value="CAT004" />
+        <code desc="CAT005(문화재(절터))" value="CAT005" />
+        <code desc="CAT006(문화재(능))" value="CAT006" />
+        <code desc="CAT007(문화재(봉화대))" value="CAT007" />
+        <code desc="CAT008(문화재(유적지))" value="CAT008" />
+        <code desc="TWD000(탑(미분류))" value="TWD000" />
+        <code desc="TWD001(탑(소방탑))" value="TWD001" />
+        <code desc="TWD002(탑(저수탑))" value="TWD002" />
+        <code desc="TWD003(탑(취수탑))" value="TWD003" />
+        <code desc="TWD004(탑(전파탑))" value="TWD004" />
+        <code desc="TWD005(탑(송전탑))" value="TWD005" />
+        <code desc="TWD006(탑(시계탑))" value="TWD006" />
+        <code desc="TWD007(탑(송수신탑))" value="TWD007" />
+        <code desc="TWD008(탑(전망대))" value="TWD008" />
+        <code desc="TWD009(탑(감시탑))" value="TWD009" />
+        <code desc="VTS002(헬기장)" value="VTS002" />
+        <code desc="IUD006(요금징수소)" value="IUD006" />
+        <code desc="POS001(우물/약수터)" value="POS001" />
+        <code desc="POS002(온천시설)" value="POS002" />
+        <code desc="POS003(낚시터)" value="POS003" />
+        <code desc="POS100(광산(미분류))" value="POS100" />
+        <code desc="POS101(광산(운영중))" value="POS101" />
+        <code desc="POS102(광산(폐쇄))" value="POS102" />
+        <code desc="POS200(채취장(미분류))" value="POS200" />
+        <code desc="POS201(채취장(채석장))" value="POS201" />
+        <code desc="POS202(채취장(토취장))" value="POS202" />
+        <code desc="POS300(관측소(미분류))" value="POS300" />
+        <code desc="POS301(관측소(수위))" value="POS301" />
+        <code desc="POS302(관측소(유량))" value="POS302" />
+        <code desc="POS303(관측소(수질))" value="POS303" />
+        <code desc="POS304(관측소(풍향/풍속))" value="POS304" />
+        <code desc="POS305(관측소(대기오염))" value="POS305" />
+        <code desc="POS306(관측소(파랑))" value="POS306" />
+        <code desc="POS307(관측소(지질))" value="POS307" />
+        <code desc="POS308(관측소(지진))" value="POS308" />
+        <code desc="POS400(문화재(미분류))" value="POS400" />
+        <code desc="POS401(문화재(비/탑/각))" value="POS401" />
+        <code desc="POS402(문화재(정자))" value="POS402" />
+        <code desc="POS403(문화재(암자))" value="POS403" />
+        <code desc="POS404(문화재(절))" value="POS404" />
+        <code desc="POS405(문화재(절터))" value="POS405" />
+        <code desc="POS406(문화재(능))" value="POS406" />
+        <code desc="POS407(문화재(봉화대))" value="POS407" />
+        <code desc="POS408(문화재(유적지))" value="POS408" />
+        <code desc="POS500(탑(미분류))" value="POS500" />
+        <code desc="POS501(탑(소방탑))" value="POS501" />
+        <code desc="POS502(탑(저수탑))" value="POS502" />
+        <code desc="POS503(탑(취수탑))" value="POS503" />
+        <code desc="POS504(탑(전파탑))" value="POS504" />
+        <code desc="POS505(탑(송전탑))" value="POS505" />
+        <code desc="POS506(탑(시계탑))" value="POS506" />
+        <code desc="POS507(탑(송수신탑))" value="POS507" />
+        <code desc="POS508(탑(전망대))" value="POS508" />
+        <code desc="POS509(탑(감시탑))" value="POS509" />
+        <code desc="POS601(헬기장)" value="POS601" />
+      </PTSFCKD_SE>
+      <ARRFCKD_SE>
+        <code desc="PIR001(정류장/버스)" value="PIR001" />
+        <code desc="PIR002(정류장/택시)" value="PIR002" />
+        <code desc="PGR001(교량/도로교)" value="PGR001" />
+        <code desc="PGR005(교량/도로철도교)" value="PGR005" />
+        <code desc="PGR008(터널/도로터널)" value="PGR008" />
+        <code desc="PGR010(터널/공용터널)" value="PGR010" />
+        <code desc="PGR014(입체교차부/고가차도)" value="PGR014" />
+        <code desc="PGR015(입체교차부/지하차도)" value="PGR015" />
+        <code desc="PGR027(도로분리대)" value="PGR027" />
+        <code desc="PGR999(기타)" value="PGR999" />
+        <code desc="PRF001(정류장시설)" value="PRF001" />
+        <code desc="PRF002(도로교)" value="PRF002" />
+        <code desc="PRF003(보행교)" value="PRF003" />
+        <code desc="PRF004(철도교)" value="PRF004" />
+        <code desc="PRF005(도로보행교)" value="PRF005" />
+        <code desc="PRF006(도로철도교)" value="PRF006" />
+        <code desc="PRF007(철도보행교)" value="PRF007" />
+        <code desc="PRF008(생태교)" value="PRF008" />
+        <code desc="PRF009(도로터널)" value="PRF009" />
+        <code desc="PRF010(공용터널)" value="PRF010" />
+        <code desc="PRF011(철도터널)" value="PRF011" />
+        <code desc="PRF012(지하보도)" value="PRF012" />
+        <code desc="PRF013(육교)" value="PRF013" />
+        <code desc="PRF014(횡단보도)" value="PRF014" />
+        <code desc="PRF015(고가차도)" value="PRF015" />
+        <code desc="PRF016(지하차도)" value="PRF016" />
+        <code desc="PRF017(인터체인지)" value="PRF017" />
+        <code desc="PRF018(교통섬)" value="PRF018" />
+        <code desc="PRF019(어린이보호구역)" value="PRF019" />
+        <code desc="PRF020(노인보호구역)" value="PRF020" />
+        <code desc="PRF021(유류주유소)" value="PRF021" />
+        <code desc="PRF022(가스충전소)" value="PRF022" />
+        <code desc="PRF023(전기충전소)" value="PRF023" />
+        <code desc="PRF024(고속국도휴게소)" value="PRF024" />
+        <code desc="PRF025(일반국도휴게소)" value="PRF025" />
+        <code desc="PRF026(지방도휴게소)" value="PRF026" />
+        <code desc="PRF027(졸음쉼터)" value="PRF027" />
+        <code desc="PRF028(주차장)" value="PRF028" />
+        <code desc="PRF029(지하철역입구)" value="PRF029" />
+        <code desc="PRF030(요금소)" value="PRF030" />
+        <code desc="PRF031(도로점용시설)" value="PRF031" />
+        <code desc="PRF999(기타)" value="PRF999" />
+      </ARRFCKD_SE>
+      <PTPGR_SE>
+        <code desc="PGT001(폭포)" value="PGT001" />
+        <code desc="PGT002(동굴입구)" value="PGT002" />
+        <code desc="PIT001(폭포)" value="PIT001" />
+        <code desc="PIT002(동굴입구)" value="PIT002" />
+      </PTPGR_SE>
+      <ARRFCMT_SE>
+        <code desc="POM003(콘크리트)" value="POM003" />
+        <code desc="POM005(목재)" value="POM005" />
+        <code desc="POM001(아스팔트)" value="POM001" />
+        <code desc="RFM001(아스팔트)" value="RFM001" />
+        <code desc="RFM002(아스팔트콘크리트)" value="RFM002" />
+        <code desc="RFM003(콘크리트)" value="RFM003" />
+        <code desc="RFM004(강재)" value="RFM004" />
+        <code desc="RFM005(목재)" value="RFM005" />
+        <code desc="RFM006(석재)" value="RFM006" />
+        <code desc="RFM099(해당없음)" value="RFM099" />
+        <code desc="RFM999(기타)" value="RFM999" />
+        <code desc="POM002(아스팔트콘크리트)" value="POM002" />
+        <code desc="POM004(강재)" value="POM004" />
+        <code desc="POM006(석재)" value="POM006" />
+        <code desc="POM099(해당없음)" value="POM099" />
+        <code desc="POM999(기타)" value="POM999" />
+      </ARRFCMT_SE>
+      <ARHFCKD_SE>
+        <code desc="WTC001(항구)" value="WTC001" />
+        <code desc="WTC002(선착장)" value="WTC002" />
+      </ARHFCKD_SE>
+      <PTAFCKD_SE>
+        <code desc="APF001(공항시설)" value="APF001" />
+        <code desc="APF002(공항부속시설)" value="APF002" />
+        <code desc="APF003(계류장)" value="APF003" />
+        <code desc="APF004(등대/항공)" value="APF004" />
+        <code desc="APF005(활주로)" value="APF005" />
+        <code desc="APF006(철책)" value="APF006" />
+        <code desc="APF999(기타)" value="APF999" />
+      </PTAFCKD_SE>
+      <ARAFCKD_SE>
+        <code desc="PAF002(공항부속시설)" value="PAF002" />
+        <code desc="PAF003(계류장)" value="PAF003" />
+        <code desc="LAF001(활주로)" value="LAF001" />
+        <code desc="LAF002(철책)" value="LAF002" />
+      </ARAFCKD_SE>
+      <PMTR_SE>
+        <code desc="RDQ001(아스팔트)" value="RDQ001" />
+        <code desc="RDQ002(아스팔트콘크리트)" value="RDQ002" />
+        <code desc="RDQ003(콘크리트)" value="RDQ003" />
+        <code desc="RDQ004(블록)" value="RDQ004" />
+        <code desc="RDQ005(비포장)" value="RDQ005" />
+        <code desc="RDQ006(포장)" value="RDQ006" />
+        <code desc="SWQ005(아스콘/블록)" value="SWQ005" />
+        <code desc="RDQ999(기타)" value="RDQ999" />
+        <code desc="PVM001(아스팔트)" value="PVM001" />
+        <code desc="PVM002(아스팔트콘크리트)" value="PVM002" />
+        <code desc="PVM003(콘크리트)" value="PVM003" />
+        <code desc="PVM004(블록)" value="PVM004" />
+        <code desc="PVM005(비포장)" value="PVM005" />
+        <code desc="PVM006(우레탄)" value="PVM006" />
+        <code desc="PVM007(고무)" value="PVM007" />
+        <code desc="PVM999(기타)" value="PVM999" />
+      </PMTR_SE>
+      <OSPS_SE>
+        <code desc="ITH001(일방통행)" value="ITH001" />
+        <code desc="ITH002(양방통행)" value="ITH002" />
+        <code desc="OWI001(일방통행)" value="OWI001" />
+        <code desc="OWI002(양방통행)" value="OWI002" />
+      </OSPS_SE>
+      <OBCHG_SE>
+        <code desc="OCS001(추가)" value="OCS001" />
+        <code desc="OCS002(삭제)" value="OCS002" />
+        <code desc="OCS003(형상수정)" value="OCS003" />
+        <code desc="OCS004(속성수정)" value="OCS004" />
+        <code desc="OCS005(형상/속성수정)" value="OCS005" />
+      </OBCHG_SE>
+      <MTRWY_SE>
+        <code desc="MOR001(일반)" value="MOR001" />
+        <code desc="MOR002(자동차전용)" value="MOR002" />
+        <code desc="MWI001(일반)" value="MWI001" />
+        <code desc="MWI002(자동차전용)" value="MWI002" />
+      </MTRWY_SE>
+      <LNSFCKD_SE>
+        <code desc="CST001(성(성벽))" value="CST001" />
+        <code desc="UPS001(지하도입구)" value="UPS001" />
+        <code desc="UPE001(지하주차장입구)" value="UPE001" />
+        <code desc="BDP999(기타구조물)" value="BDP999" />
+        <code desc="LNS001(성(성벽))" value="LNS001" />
+        <code desc="LNS002(지하도입구)" value="LNS002" />
+        <code desc="LNS003(지하주차장입구)" value="LNS003" />
+        <code desc="LNS999(기타구조물)" value="LNS999" />
+      </LNSFCKD_SE>
+      <LNRFCST_SE>
+        <code desc="MSS001(화단)" value="MSS001" />
+        <code desc="MSS002(콘크리트)" value="MSS002" />
+        <code desc="MSS003(철제)" value="MSS003" />
+        <code desc="MSS004(플라스틱)" value="MSS004" />
+        <code desc="MSS999(기타)" value="MSS999" />
+        <code desc="LIS001(화단)" value="LIS001" />
+        <code desc="LIS002(콘크리트)" value="LIS002" />
+        <code desc="LIS003(철제)" value="LIS003" />
+        <code desc="LIS004(플라스틱)" value="LIS004" />
+        <code desc="LIS999(기타)" value="LIS999" />
+      </LNRFCST_SE>
+      <LNPGR_SE>
+        <code desc="LTG001(성토상단)" value="LTG001" />
+        <code desc="LTG002(성토하단)" value="LTG002" />
+        <code desc="LTG003(절토상단)" value="LTG003" />
+        <code desc="LTG004(절토하단)" value="LTG004" />
+        <code desc="LTG005(옹벽상단)" value="LTG005" />
+        <code desc="LTG006(옹벽하단)" value="LTG006" />
+        <code desc="LTG007(석축상단)" value="LTG007" />
+        <code desc="LTG008(석축하단)" value="LTG008" />
+        <code desc="LTG009(벼랑바위)" value="LTG009" />
+        <code desc="LTG010(너덜바위)" value="LTG010" />
+        <code desc="LTG011(보행노선)" value="LTG011" />
+        <code desc="LTG012(부지안경계선)" value="LTG012" />
+      </LNPGR_SE>
+      <EDENNC_AT>
+        <code desc="EDA001(분리대 유)" value="EDA001" />
+        <code desc="EDA002(분리대 무)" value="EDA002" />
+        <code desc="1(유)" value="1" />
+        <code desc="0(무)" value="0" />
+      </EDENNC_AT>
+      <CTRLN_SE>
+        <code desc="CTD001(계곡선)" value="CTD001" />
+        <code desc="CTD002(주곡선)" value="CTD002" />
+        <code desc="CTD003(간곡선)" value="CTD003" />
+        <code desc="CTD004(조곡선)" value="CTD004" />
+        <code desc="CTC001(계곡선)" value="CTC001" />
+        <code desc="CTC002(주곡선)" value="CTC002" />
+        <code desc="CTC003(간곡선)" value="CTC003" />
+        <code desc="CTC004(조곡선)" value="CTC004" />
+      </CTRLN_SE>
+      <BULD_SE>
+        <code desc="BDK001(일반주택)" value="BDK001" />
+        <code desc="BDK002(연립주택)" value="BDK002" />
+        <code desc="BDK003(아파트)" value="BDK003" />
+        <code desc="BDK004(주택외건물)" value="BDK004" />
+        <code desc="BDK005(무벽건물)" value="BDK005" />
+        <code desc="BDK006(온실)" value="BDK006" />
+        <code desc="BDK007(공사중건물)" value="BDK007" />
+        <code desc="BDK008(가건물)" value="BDK008" />
+        <code desc="BDC001(일반주택)" value="BDC001" />
+        <code desc="BDC002(연립주택)" value="BDC002" />
+        <code desc="BDC003(아파트)" value="BDC003" />
+        <code desc="BDC004(주택외건물)" value="BDC004" />
+        <code desc="BDC005(무벽건물)" value="BDC005" />
+        <code desc="BDC006(온실)" value="BDC006" />
+        <code desc="BDC007(공사중건물)" value="BDC007" />
+        <code desc="BDC008(가건물)" value="BDC008" />
+      </BULD_SE>
+      <BPRP_SE>
+        <code desc="BDS001(주거)" value="BDS001" />
+        <code desc="BDS002(근린생활시설)" value="BDS002" />
+        <code desc="BDS003(문화및집회시설)" value="BDS003" />
+        <code desc="BDS004(종교시설)" value="BDS004" />
+        <code desc="BDS005(판매시설)" value="BDS005" />
+        <code desc="BDS006(운수시설)" value="BDS006" />
+        <code desc="BDS007(의료시설)" value="BDS007" />
+        <code desc="BDS008(교육연구시설)" value="BDS008" />
+        <code desc="BDS009(노유자(노인및어린이)시설)" value="BDS009" />
+        <code desc="BDS010(수련시설)" value="BDS010" />
+        <code desc="BDS011(운동시설)" value="BDS011" />
+        <code desc="BDS012(업무시설)" value="BDS012" />
+        <code desc="BDS013(숙박시설)" value="BDS013" />
+        <code desc="BDS014(위락시설)" value="BDS014" />
+        <code desc="BDS015(공장)" value="BDS015" />
+        <code desc="BDS016(창고시설)" value="BDS016" />
+        <code desc="BDS017(위험물저장및처리시설)" value="BDS017" />
+        <code desc="BDS018(자동차관련시설)" value="BDS018" />
+        <code desc="BDS019(동물및식물관련시설)" value="BDS019" />
+        <code desc="BDS020(분뇨및쓰레기처리시설)" value="BDS020" />
+        <code desc="BDS021(교정및군사시설)" value="BDS021" />
+        <code desc="BDS022(방송통신시설)" value="BDS022" />
+        <code desc="BDS023(발전시설)" value="BDS023" />
+        <code desc="BDS024(묘지관련시설)" value="BDS024" />
+        <code desc="BDS025(관광휴게시설)" value="BDS025" />
+        <code desc="BDS026(장례시설)" value="BDS026" />
+        <code desc="BDS999(기타시설)" value="BDS999" />
+        <code desc="BDU001(주거용단독주택)" value="BDU001" />
+        <code desc="BDU002(주거용공동주택)" value="BDU002" />
+        <code desc="BDU003(제1종근린생활시설)" value="BDU003" />
+        <code desc="BDU004(제2종근린생활시설)" value="BDU004" />
+        <code desc="BDU005(문화및집회시설)" value="BDU005" />
+        <code desc="BDU006(종교시설)" value="BDU006" />
+        <code desc="BDU007(판매시설)" value="BDU007" />
+        <code desc="BDU008(운수시설)" value="BDU008" />
+        <code desc="BDU009(의료시설)" value="BDU009" />
+        <code desc="BDU010(교육연구시설)" value="BDU010" />
+        <code desc="BDU011(노유자(노인및어린이)시설)" value="BDU011" />
+        <code desc="BDU012(수련시설)" value="BDU012" />
+        <code desc="BDU013(운동시설)" value="BDU013" />
+        <code desc="BDU014(업무시설)" value="BDU014" />
+        <code desc="BDU015(숙박시설)" value="BDU015" />
+        <code desc="BDU016(위락시설)" value="BDU016" />
+        <code desc="BDU017(공장)" value="BDU017" />
+        <code desc="BDU018(창고시설)" value="BDU018" />
+        <code desc="BDU019(위험물저장및처리시설)" value="BDU019" />
+        <code desc="BDU020(자동차관련시설)" value="BDU020" />
+        <code desc="BDU021(동물및식물관련시설)" value="BDU021" />
+        <code desc="BDU022(분뇨및쓰레기처리시설)" value="BDU022" />
+        <code desc="BDU023(교정및군사시설)" value="BDU023" />
+        <code desc="BDU024(방송통신시설)" value="BDU024" />
+        <code desc="BDU025(발전시설)" value="BDU025" />
+        <code desc="BDU026(묘지관련시설)" value="BDU026" />
+        <code desc="BDU027(관광휴게시설)" value="BDU027" />
+        <code desc="BDU028(장례시설)" value="BDU028" />
+        <code desc="BDU029(야영장시설)" value="BDU029" />
+        <code desc="BDU999(기타시설)" value="BDU999" />
+      </BPRP_SE>
+      <BCYKND_SE>
+        <code desc="BIW001(자전거전용도로)" value="BIW001" />
+        <code desc="BIW002(자전거보행자겸용도로)" value="BIW002" />
+        <code desc="BIW003(자전거자동차겸용도로)" value="BIW003" />
+      </BCYKND_SE>
+      <ARTFCTY_SE>
+        <code desc="PGR002(교량/보행교)" value="PGR002" />
+        <code desc="PGR003(교량/철도교)" value="PGR003" />
+        <code desc="PGR004(교량/도로보행교)" value="PGR004" />
+        <code desc="PGR006(교량/철도보행교)" value="PGR006" />
+        <code desc="PGR007(교량/생태교)" value="PGR007" />
+        <code desc="PGR009(터널/철도터널)" value="PGR009" />
+        <code desc="PGR011(보행시설/지하보도)" value="PGR011" />
+        <code desc="PGR012(보행시설/육교)" value="PGR012" />
+        <code desc="PGR013(보행시설/횡단보도)" value="PGR013" />
+        <code desc="PGR016(안전지대/교통섬)" value="PGR016" />
+        <code desc="PGR017(안전지대/어린이보호구역)" value="PGR017" />
+        <code desc="PGR018(안전지대/노인보호구역)" value="PGR018" />
+        <code desc="PGR019(주유소/유류)" value="PGR019" />
+        <code desc="PGR020(주유소/가스)" value="PGR020" />
+        <code desc="PGR021(주유소/전기)" value="PGR021" />
+        <code desc="PGR022(주차장)" value="PGR022" />
+        <code desc="PGR023(휴게소/고속국도)" value="PGR023" />
+        <code desc="PGR024(휴게소/일반국도)" value="PGR024" />
+        <code desc="PGR025(휴게소/지방도)" value="PGR025" />
+        <code desc="PGR026(졸음쉼터)" value="PGR026" />
+      </ARTFCTY_SE>
+      <ARSFCKD_SE>
+        <code desc="PDD001(유원지시설)" value="PDD001" />
+        <code desc="PDD002(동물원시설)" value="PDD002" />
+        <code desc="PDD003(식물원시설)" value="PDD003" />
+        <code desc="PDD004(옥외수영장시설)" value="PDD004" />
+        <code desc="PDD005(골프장/골프연습장시설)" value="PDD005" />
+        <code desc="PDD006(스키장시설)" value="PDD006" />
+        <code desc="PDD007(테니스장시설)" value="PDD007" />
+        <code desc="PDD008(어린이놀이터시설)" value="PDD008" />
+        <code desc="PDD009(운동장시설)" value="PDD009" />
+        <code desc="PDD010(번지점프장시설)" value="PDD010" />
+        <code desc="PDD011(경륜장시설)" value="PDD011" />
+        <code desc="PDD012(수련원시설)" value="PDD012" />
+        <code desc="PDD014(공원시설)" value="PDD014" />
+        <code desc="PDD900(분수대)" value="PDD900" />
+        <code desc="PDD999(기타놀이시설)" value="PDD999" />
+        <code desc="SRD001(계단)" value="SRD001" />
+        <code desc="SRD002(스탠드)" value="SRD002" />
+        <code desc="STD001(저수조)" value="STD001" />
+        <code desc="STD002(저유조)" value="STD002" />
+        <code desc="STD999(기타저장소)" value="STD999" />
+        <code desc="PGS001(계단)" value="PGS001" />
+        <code desc="PGS002(스탠드)" value="PGS002" />
+        <code desc="PGS999(기타)" value="PGS999" />
+      </ARSFCKD_SE>
+      <ARRFCPH_SE>
+        <code desc="TPR001(평면/단독)" value="TPR001" />
+        <code desc="TPR002(평면/포함함)" value="TPR002" />
+        <code desc="TPR003(평면/포함된)" value="TPR003" />
+        <code desc="TPR004(입체/지하)" value="TPR004" />
+        <code desc="TPR005(입체/공중)" value="TPR005" />
+        <code desc="TPR006(입체/다중)" value="TPR006" />
+        <code desc="POT001(평면/단독)" value="POT001" />
+        <code desc="POT002(평면/포함함)" value="POT002" />
+        <code desc="POT003(평면/포함된)" value="POT003" />
+        <code desc="POT004(입체/지하)" value="POT004" />
+        <code desc="POT005(입체/공중)" value="POT005" />
+        <code desc="POT006(입체/다중)" value="POT006" />
+      </ARRFCPH_SE>
+      <ARPGR_SE>
+        <code desc="WPT001(모래)" value="WPT001" />
+        <code desc="WPT002(습지)" value="WPT002" />
+        <code desc="WPT003(염전)" value="WPT003" />
+        <code desc="WPT004(갯벌)" value="WPT004" />
+        <code desc="PTG001(모래)" value="PTG001" />
+        <code desc="PTG002(습지)" value="PTG002" />
+        <code desc="PTG003(염전)" value="PTG003" />
+        <code desc="PTG004(갯벌)" value="PTG004" />
+        <code desc="PTG005(보행노면)" value="PTG005" />
+      </ARPGR_SE>
+      <ADCLS_SE>
+        <code desc="BDF001(담장)" value="BDF001" />
+        <code desc="BDF002(문주)" value="BDF002" />
+        <code desc="ATD001(담장)" value="ATD001" />
+        <code desc="ATD002(문주)" value="ATD002" />
+      </ADCLS_SE>
+      <ADZONE_SE>
+        <code desc="ADD001(특별시)" value="ADD001" />
+        <code desc="ADD002(광역시)" value="ADD002" />
+        <code desc="ADD003(도)" value="ADD003" />
+        <code desc="ADD004(특별자치도)" value="ADD004" />
+        <code desc="ADD005(특별자치시)" value="ADD005" />
+        <code desc="ADD006(시)" value="ADD006" />
+        <code desc="ADD007(군)" value="ADD007" />
+        <code desc="ADD008(구)" value="ADD008" />
+        <code desc="ADD009(읍)" value="ADD009" />
+        <code desc="ADD010(면)" value="ADD010" />
+        <code desc="ADD011(법정동)" value="ADD011" />
+        <code desc="ADD012(행정동)" value="ADD012" />
+      </ADZONE_SE>
+      <FZONBN_SE>
+        <code desc="FAA001(중앙행정기관(부))" value="FAA001" />
+        <code desc="FAA002(중앙행정기관(처))" value="FAA002" />
+        <code desc="FAA003(중앙행정기관(청))" value="FAA003" />
+        <code desc="FAA004(중앙행정기관(소속기관))" value="FAA004" />
+        <code desc="FAA005(중앙행정기관(기타))" value="FAA005" />
+        <code desc="FAA006(자치단체청사)" value="FAA006" />
+        <code desc="FAA007(주민자치센타)" value="FAA007" />
+        <code desc="FAA008(소방서)" value="FAA008" />
+        <code desc="FAA009(경찰서)" value="FAA009" />
+        <code desc="FAA010(분뇨 및 쓰레기 처리시설)" value="FAA010" />
+        <code desc="FAA011(정부투자기관)" value="FAA011" />
+        <code desc="FAA101(대학교)" value="FAA101" />
+        <code desc="FAA102(고등학교)" value="FAA102" />
+        <code desc="FAA103(중학교)" value="FAA103" />
+        <code desc="FAA104(초등학교)" value="FAA104" />
+        <code desc="FAA105(특수학교)" value="FAA105" />
+        <code desc="FAA106(도서관)" value="FAA106" />
+        <code desc="FAA107(연구단지)" value="FAA107" />
+        <code desc="FAA108(수련원)" value="FAA108" />
+        <code desc="FAA201(공항시설)" value="FAA201" />
+        <code desc="FAA202(항만시설)" value="FAA202" />
+        <code desc="FAA203(철도시설)" value="FAA203" />
+        <code desc="FAA204(버스터미널)" value="FAA204" />
+        <code desc="FAA205(물류창고)" value="FAA205" />
+        <code desc="FAA301(경기장)" value="FAA301" />
+        <code desc="FAA302(기념관)" value="FAA302" />
+        <code desc="FAA303(식물원)" value="FAA303" />
+        <code desc="FAA304(동물원)" value="FAA304" />
+        <code desc="FAA305(휴양콘도미니엄)" value="FAA305" />
+        <code desc="FAA306(유스호스텔)" value="FAA306" />
+        <code desc="FAA307(골프장)" value="FAA307" />
+        <code desc="FAA308(리조트)" value="FAA308" />
+        <code desc="FAA309(스키장)" value="FAA309" />
+        <code desc="FAA310(야영장)" value="FAA310" />
+        <code desc="FAA311(승마장)" value="FAA311" />
+        <code desc="FAA312(해수욕장)" value="FAA312" />
+        <code desc="FAA313(운동장)" value="FAA313" />
+        <code desc="FAA314(체육관)" value="FAA314" />
+        <code desc="FAA401(국립공원)" value="FAA401" />
+        <code desc="FAA402(도립공원)" value="FAA402" />
+        <code desc="FAA403(군립공원)" value="FAA403" />
+        <code desc="FAA404(근린공원)" value="FAA404" />
+        <code desc="FAA405(도시자연공원)" value="FAA405" />
+        <code desc="FAA406(어린이공원)" value="FAA406" />
+        <code desc="FAA407(체육공원)" value="FAA407" />
+        <code desc="FAA408(유원지)" value="FAA408" />
+        <code desc="FAA409(수목원)" value="FAA409" />
+        <code desc="FAA410(휴양림)" value="FAA410" />
+        <code desc="FAA411(관광지시설)" value="FAA411" />
+        <code desc="FAA412(온천)" value="FAA412" />
+        <code desc="FAA413(놀이동산)" value="FAA413" />
+        <code desc="FAA414(문화재)" value="FAA414" />
+        <code desc="FAA501(산업단지구역)" value="FAA501" />
+        <code desc="FAA502(축산지역)" value="FAA502" />
+        <code desc="FAA503(시장)" value="FAA503" />
+        <code desc="FAA504(방송국)" value="FAA504" />
+        <code desc="FAA505(병원)" value="FAA505" />
+        <code desc="FAA506(보건소)" value="FAA506" />
+        <code desc="FAA507(장례식장)" value="FAA507" />
+        <code desc="FAA508(묘지공원)" value="FAA508" />
+        <code desc="FAA509(공동묘지)" value="FAA509" />
+        <code desc="FAA601(교회)" value="FAA601" />
+        <code desc="FAA602(사찰)" value="FAA602" />
+        <code desc="FAA603(성당)" value="FAA603" />
+        <code desc="FAA701(아파트단지)" value="FAA701" />
+        <code desc="FAA702(개발예정구역)" value="FAA702" />
+      </FZONBN_SE>
+      <CSCHG_SE>
+        <code desc="CSC001(객체생성)" value="CSC001" />
+        <code desc="CSC002(공간도형과 속성을 함께 수정)" value="CSC002" />
+        <code desc="CSC003(공간도형만 수정)" value="CSC003" />
+        <code desc="CSC004(공간도형 분할)" value="CSC004" />
+        <code desc="CSC005(공간도형 합병)" value="CSC005" />
+        <code desc="CSC006(위치 이동)" value="CSC006" />
+        <code desc="CSC007(속성만 수정)" value="CSC007" />
+        <code desc="CSC008(객체 삭제)" value="CSC008" />
+      </CSCHG_SE>
+      <USGSTT_SE>
+        <code desc="RUS001(건설예정)" value="RUS001" />
+        <code desc="RUS002(공사중)" value="RUS002" />
+        <code desc="RUS003(운영중)" value="RUS003" />
+        <code desc="RUS004(폐쇄)" value="RUS004" />
+      </USGSTT_SE>
+      <RDLINK_SE>
+        <code desc="RWL000(평면링크)" value="RWL000" />
+        <code desc="RWL001(위상링크)" value="RWL001" />
+        <code desc="RWL002(다중위상링크2)" value="RWL002" />
+        <code desc="RWL003(다중위상링크3)" value="RWL003" />
+        <code desc="RWL004(다중위상링크4)" value="RWL004" />
+        <code desc="RWL005(다중위상링크5)" value="RWL005" />
+        <code desc="RWL006(다중위상링크6)" value="RWL006" />
+        <code desc="RWL007(다중위상링크7)" value="RWL007" />
+        <code desc="RWL008(다중위상링크8)" value="RWL008" />
+        <code desc="RWL009(다중위상링크9)" value="RWL009" />
+      </RDLINK_SE>
+      <TFCEQP_SE>
+        <code desc="RFI101(일반차도)" value="RFI101" />
+        <code desc="RFI102(고가차도)" value="RFI102" />
+        <code desc="RFI103(지하차도)" value="RFI103" />
+        <code desc="RFI104(인터페인지)" value="RFI104" />
+        <code desc="RFI201(교량)" value="RFI201" />
+        <code desc="RFI202(터널)" value="RFI202" />
+        <code desc="RFI301(일반철도)" value="RFI301" />
+      </TFCEQP_SE>
+      <RDNODE_SE>
+        <code desc="RWN001(끝점(DANGLE))" value="RWN001" />
+        <code desc="RWN002(두점의 교차점(PSEUDO))" value="RWN002" />
+        <code desc="RWN003(세점이상의 교차점(REGULAR))" value="RWN003" />
+        <code desc="RWN004(PSEUDO 중 행정구역 경계노드)" value="RWN004" />
+        <code desc="RWN005(REGULAR 중 입체노드(위상노드))" value="RWN005" />
+        <code desc="RWN006(DANGLE 중 도곽인접 노드)" value="RWN006" />
+      </RDNODE_SE>
+      <LNRFCKD_SE>
+        <code desc="LRF001(분리대)" value="LRF001" />
+        <code desc="LRF999(기타)" value="LRF999" />
+      </LNRFCKD_SE>
+      <PTRFCKD_SE>
+        <code desc="IRF001(버스정류장)" value="IRF001" />
+        <code desc="IRF002(택시정류장)" value="IRF002" />
+      </PTRFCKD_SE>
+      <RLWAYTY_SE>
+        <code desc="RRT001(철도중심선)" value="RRT001" />
+        <code desc="RRT002(선로)" value="RRT002" />
+      </RLWAYTY_SE>
+      <RLWLINK_SE>
+        <code desc="RRL000(평면링크)" value="RRL000" />
+        <code desc="RRL001(위상링크)" value="RRL001" />
+        <code desc="RRL002(다중위상링크2)" value="RRL002" />
+        <code desc="RRL003(다중위상링크3)" value="RRL003" />
+        <code desc="RRL004(다중위상링크4)" value="RRL004" />
+        <code desc="RRL005(다중위상링크5)" value="RRL005" />
+        <code desc="RRL006(다중위상링크6)" value="RRL006" />
+        <code desc="RRL007(다중위상링크7)" value="RRL007" />
+        <code desc="RRL008(다중위상링크8)" value="RRL008" />
+        <code desc="RRL009(다중위상링크9)" value="RRL009" />
+      </RLWLINK_SE>
+      <RLNODE_SE>
+        <code desc="RRN001(끝점(DANGLE))" value="RRN001" />
+        <code desc="RRN002(두점의 교차점(PSEUDO))" value="RRN002" />
+        <code desc="RRN003(세점이상의 교차점(REGULAR))" value="RRN003" />
+        <code desc="RRN004(PSEUDO 중 행정구역 경계노드)" value="RRN004" />
+        <code desc="RRN005(REGULAR 중 입체노드(위상노드))" value="RRN005" />
+        <code desc="RRN006(DANGLE 중 도곽인접 노드)" value="RRN006" />
+      </RLNODE_SE>
+      <PTHFCKD_SE>
+        <code desc="POF001(등대/항해)" value="POF001" />
+        <code desc="POF002(등대/기타)" value="POF002" />
+        <code desc="POF003(항구)" value="POF003" />
+        <code desc="POF004(선착장)" value="POF004" />
+        <code desc="POF999(기타)" value="POF999" />
+      </PTHFCKD_SE>
+      <SHORLNE_OR>
+        <code desc="CLS001(국토지리정보원)" value="CLS001" />
+        <code desc="CLS002(국립해양조사원)" value="CLS002" />
+      </SHORLNE_OR>
+      <SHORLNE_ST>
+        <code desc="CLT001(자연해안선)" value="CLT001" />
+        <code desc="CLT002(인공해안선)" value="CLT002" />
+      </SHORLNE_ST>
+      <ORIGIN_SE>
+        <code desc="ARB01000(시도구역경계)" value="ARB01000" />
+        <code desc="ARB02000(시군구구역경계)" value="ARB02000" />
+        <code desc="ARB03000(읍면동구역경계)" value="ARB03000" />
+        <code desc="ARB04000(시설구역경계)" value="ARB04000" />
+        <code desc="TRN01000(차도중심선)" value="TRN01000" />
+        <code desc="TRN06000(면형도로시설)" value="TRN06000" />
+        <code desc="TRN08000(점형도로시설)" value="TRN08000" />
+        <code desc="TRN09000(철도중심선)" value="TRN09000" />
+        <code desc="TRN11000(면형철도시설)" value="TRN11000" />
+        <code desc="TRN12000(점형철도시설)" value="TRN12000" />
+        <code desc="TRN13000(면형공항시설)" value="TRN13000" />
+        <code desc="TRN15000(점형공항시설)" value="TRN15000" />
+        <code desc="TRN16000(면형항만시설)" value="TRN16000" />
+        <code desc="TRN17000(점형항만시설)" value="TRN17000" />
+        <code desc="TRN19000(차도노드)" value="TRN19000" />
+        <code desc="TRN22000(철도노드)" value="TRN22000" />
+        <code desc="BLD01000(건물)" value="BLD01000" />
+        <code desc="BLD03000(면형구조시설)" value="BLD03000" />
+        <code desc="BLD04000(선형구조시설)" value="BLD04000" />
+        <code desc="BLD05000(점형구조시설)" value="BLD05000" />
+        <code desc="TPG04000(면형지형)" value="TPG04000" />
+        <code desc="TPG06000(점형지형)" value="TPG06000" />
+        <code desc="WTR03000(하천중심선)" value="WTR03000" />
+        <code desc="WTR04000(호소)" value="WTR04000" />
+        <code desc="WTR05000(수로시설)" value="WTR05000" />
+        <code desc="GNM00000(지명)" value="GNM00000" />
+        <code desc="XCP00000(외부수집POI)" value="XCP00000" />
+      </ORIGIN_SE>
+    </root>
+    

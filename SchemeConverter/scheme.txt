@@ -1,0 +1,977 @@
+TN_CTPRVN_BNDRY	시도구역경계	NF_ID	고유식별자 아이디
+TN_CTPRVN_BNDRY	시도구역경계	ADZONE_NM	행정구역 명칭
+TN_CTPRVN_BNDRY	시도구역경계	LEGLCD_SE	법정동코드		
+TN_CTPRVN_BNDRY	시도구역경계	ADZONE_SE	행정구역 구분	특별시	ADD001
+TN_CTPRVN_BNDRY	시도구역경계	ADZONE_SE	행정구역 구분	광역시	ADD002
+TN_CTPRVN_BNDRY	시도구역경계	ADZONE_SE	행정구역 구분	도	ADD003
+TN_CTPRVN_BNDRY	시도구역경계	ADZONE_SE	행정구역 구분	특별자치도	ADD004
+TN_CTPRVN_BNDRY	시도구역경계	ADZONE_SE	행정구역 구분	특별자치시	ADD005
+TN_CTPRVN_BNDRY	시도구역경계	ADZONE_SE	행정구역 구분	시	ADD006
+TN_CTPRVN_BNDRY	시도구역경계	ADZONE_SE	행정구역 구분	군	ADD007
+TN_CTPRVN_BNDRY	시도구역경계	ADZONE_SE	행정구역 구분	구	ADD008
+TN_CTPRVN_BNDRY	시도구역경계	ADZONE_SE	행정구역 구분	읍	ADD009
+TN_CTPRVN_BNDRY	시도구역경계	ADZONE_SE	행정구역 구분	면	ADD010
+TN_CTPRVN_BNDRY	시도구역경계	ADZONE_SE	행정구역 구분	법정동	ADD011
+TN_CTPRVN_BNDRY	시도구역경계	ADZONE_SE	행정구역 구분	행정동	ADD012
+TN_CTPRVN_BNDRY	시도구역경계	OBJECT_GT	객체 지오메트리		
+TN_CTPRVN_BNDRY	시도구역경계	OBCHG_DT	객체변동 일시		
+TN_CTPRVN_BNDRY	시도구역경계	MESRMTH_SE	수정측량방법		
+TN_CTPRVN_BNDRY	시도구역경계	RSREG_DT	성과등록 일시		
+TN_CTPRVN_BNDRY	시도구역경계	MNENT_NM	제작업체 명		
+TN_SIGNGU_BNDRY	시군구구역경계	NF_ID	고유식별자 아이디		
+TN_SIGNGU_BNDRY	시군구구역경계	ADZONE_NM	행정구역 명칭		
+TN_SIGNGU_BNDRY	시군구구역경계	LEGLCD_SE	법정동코드		
+TN_SIGNGU_BNDRY	시군구구역경계	ADZONE_SE	행정구역 구분	특별시	ADD001
+TN_SIGNGU_BNDRY	시군구구역경계	ADZONE_SE	행정구역 구분	광역시	ADD002
+TN_SIGNGU_BNDRY	시군구구역경계	ADZONE_SE	행정구역 구분	도	ADD003
+TN_SIGNGU_BNDRY	시군구구역경계	ADZONE_SE	행정구역 구분	특별자치도	ADD004
+TN_SIGNGU_BNDRY	시군구구역경계	ADZONE_SE	행정구역 구분	특별자치시	ADD005
+TN_SIGNGU_BNDRY	시군구구역경계	ADZONE_SE	행정구역 구분	시	ADD006
+TN_SIGNGU_BNDRY	시군구구역경계	ADZONE_SE	행정구역 구분	군	ADD007
+TN_SIGNGU_BNDRY	시군구구역경계	ADZONE_SE	행정구역 구분	구	ADD008
+TN_SIGNGU_BNDRY	시군구구역경계	ADZONE_SE	행정구역 구분	읍	ADD009
+TN_SIGNGU_BNDRY	시군구구역경계	ADZONE_SE	행정구역 구분	면	ADD010
+TN_SIGNGU_BNDRY	시군구구역경계	ADZONE_SE	행정구역 구분	법정동	ADD011
+TN_SIGNGU_BNDRY	시군구구역경계	ADZONE_SE	행정구역 구분	행정동	ADD012
+TN_SIGNGU_BNDRY	시군구구역경계	OBJECT_GT	객체 지오메트리		
+TN_SIGNGU_BNDRY	시군구구역경계	OBCHG_DT	객체변동 일시		
+TN_SIGNGU_BNDRY	시군구구역경계	MESRMTH_SE	수정측량방법		
+TN_SIGNGU_BNDRY	시군구구역경계	RSREG_DT	성과등록 일시		
+TN_SIGNGU_BNDRY	시군구구역경계	MNENT_NM	제작업체 명		
+TN_EMD_BNDRY	읍면동구역경계	NF_ID	고유식별자 아이디		
+TN_EMD_BNDRY	읍면동구역경계	ADZONE_NM	행정구역 명칭		
+TN_EMD_BNDRY	읍면동구역경계	LEGLCD_SE	법정동코드		
+TN_EMD_BNDRY	읍면동구역경계	ADZONE_SE	행정구역 구분	특별시	ADD001
+TN_EMD_BNDRY	읍면동구역경계	ADZONE_SE	행정구역 구분	광역시	ADD002
+TN_EMD_BNDRY	읍면동구역경계	ADZONE_SE	행정구역 구분	도	ADD003
+TN_EMD_BNDRY	읍면동구역경계	ADZONE_SE	행정구역 구분	특별자치도	ADD004
+TN_EMD_BNDRY	읍면동구역경계	ADZONE_SE	행정구역 구분	특별자치시	ADD005
+TN_EMD_BNDRY	읍면동구역경계	ADZONE_SE	행정구역 구분	시	ADD006
+TN_EMD_BNDRY	읍면동구역경계	ADZONE_SE	행정구역 구분	군	ADD007
+TN_EMD_BNDRY	읍면동구역경계	ADZONE_SE	행정구역 구분	구	ADD008
+TN_EMD_BNDRY	읍면동구역경계	ADZONE_SE	행정구역 구분	읍	ADD009
+TN_EMD_BNDRY	읍면동구역경계	ADZONE_SE	행정구역 구분	면	ADD010
+TN_EMD_BNDRY	읍면동구역경계	ADZONE_SE	행정구역 구분	법정동	ADD011
+TN_EMD_BNDRY	읍면동구역경계	ADZONE_SE	행정구역 구분	행정동	ADD012
+TN_EMD_BNDRY	읍면동구역경계	OBJECT_GT	객체 지오메트리		
+TN_EMD_BNDRY	읍면동구역경계	OBCHG_DT	객체변동 일시		
+TN_EMD_BNDRY	읍면동구역경계	MESRMTH_SE	수정측량방법		
+TN_EMD_BNDRY	읍면동구역경계	RSREG_DT	성과등록 일시		
+TN_EMD_BNDRY	읍면동구역경계	MNENT_NM	제작업체 명		
+TN_FCLTY_ZONE_BNDRY	시설구역경계	NF_ID	고유식별자 아이디		
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZON_NM	시설구역 명칭		
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	중앙행정기관(부)	FAA001
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	중앙행정기관(처)	FAA002
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	중앙행정기관(청)	FAA003
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	중앙행정기관(소속기관)	FAA004
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	중앙행정기관(기타)	FAA005
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	자치단체청사	FAA006
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	주민자치센타	FAA007
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	소방서	FAA008
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	경찰서	FAA009
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	분뇨 및 쓰레기 처리시설	FAA010
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	정부투자기관	FAA011
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	대학교	FAA101
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	고등학교	FAA102
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	중학교	FAA103
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	초등학교	FAA104
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	특수학교	FAA105
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	도서관	FAA106
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	연구단지	FAA107
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	수련원	FAA108
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	공항시설	FAA201
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	항만시설	FAA202
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	철도시설	FAA203
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	버스터미널	FAA204
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	물류창고	FAA205
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	경기장	FAA301
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	기념관	FAA302
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	식물원	FAA303
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	동물원	FAA304
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	휴양콘도미니엄	FAA305
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	유스호스텔	FAA306
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	골프장	FAA307
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	리조트	FAA308
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	스키장	FAA309
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	야영장	FAA310
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	승마장	FAA311
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	해수욕장	FAA312
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	운동장	FAA313
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	체육관	FAA314
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	국립공원	FAA401
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	도립공원	FAA402
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	군립공원	FAA403
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	근린공원	FAA404
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	도시자연공원	FAA405
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	어린이공원	FAA406
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	체육공원	FAA407
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	유원지	FAA408
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	수목원	FAA409
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	휴양림	FAA410
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	관광지시설	FAA411
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	온천	FAA412
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	놀이동산	FAA413
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	문화재	FAA414
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	산업단지구역	FAA501
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	축산지역	FAA502
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	시장	FAA503
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	방송국	FAA504
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	병원	FAA505
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	보건소	FAA506
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	장례식장	FAA507
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	묘지공원	FAA508
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	공동묘지	FAA509
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	교회	FAA601
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	사찰	FAA602
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	성당	FAA603
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	아파트단지	FAA701
+TN_FCLTY_ZONE_BNDRY	시설구역경계	FZONBN_SE	시설구역경계 구분	개발예정구역	FAA702
+TN_FCLTY_ZONE_BNDRY	시설구역경계	OBJECT_GT	객체 지오메트리		
+TN_FCLTY_ZONE_BNDRY	시설구역경계	OBCHG_DT	객체변동 일시		
+TN_FCLTY_ZONE_BNDRY	시설구역경계	MESRMTH_SE	수정측량방법		
+TN_FCLTY_ZONE_BNDRY	시설구역경계	RSREG_DT	성과등록 일시		
+TN_FCLTY_ZONE_BNDRY	시설구역경계	CSCHG_SE	객체변동구분	객체생성	CSC001
+TN_FCLTY_ZONE_BNDRY	시설구역경계	CSCHG_SE	객체변동구분	공간도형과 속성을 함께 수정	CSC002
+TN_FCLTY_ZONE_BNDRY	시설구역경계	CSCHG_SE	객체변동구분	공간도형만 수정	CSC003
+TN_FCLTY_ZONE_BNDRY	시설구역경계	CSCHG_SE	객체변동구분	공간도형 분할	CSC004
+TN_FCLTY_ZONE_BNDRY	시설구역경계	CSCHG_SE	객체변동구분	공간도형 합병	CSC005
+TN_FCLTY_ZONE_BNDRY	시설구역경계	CSCHG_SE	객체변동구분	위치 이동	CSC006
+TN_FCLTY_ZONE_BNDRY	시설구역경계	CSCHG_SE	객체변동구분	속성만 수정	CSC007
+TN_FCLTY_ZONE_BNDRY	시설구역경계	CSCHG_SE	객체변동구분	객체 삭제	CSC008
+TN_FCLTY_ZONE_BNDRY	시설구역경계	MNENT_NM	제작업체 명		
+TN_RODWAY_CTLN	차도중심선	NF_ID	고유식별자 아이디		
+TN_RODWAY_CTLN	차도중심선	MOLIT_UFID	국토부 UFID		
+TN_RODWAY_CTLN	차도중심선	REFNF_ID	참조고유식별자 아이디		
+TN_RODWAY_CTLN	차도중심선	ROAD_NO	도로 번호		
+TN_RODWAY_CTLN	차도중심선	ROAD_NM	도로 명칭		
+TN_RODWAY_CTLN	차도중심선	ROAD_SE	도로 구분	고속국도	RDC001
+TN_RODWAY_CTLN	차도중심선	ROAD_SE	도로 구분	일반국도	RDC002
+TN_RODWAY_CTLN	차도중심선	ROAD_SE	도로 구분	지방도	RDC003
+TN_RODWAY_CTLN	차도중심선	ROAD_SE	도로 구분	특별시도	RDC004
+TN_RODWAY_CTLN	차도중심선	ROAD_SE	도로 구분	광역시도	RDC005
+TN_RODWAY_CTLN	차도중심선	ROAD_SE	도로 구분	시도	RDC006
+TN_RODWAY_CTLN	차도중심선	ROAD_SE	도로 구분	군도	RDC007
+TN_RODWAY_CTLN	차도중심선	ROAD_SE	도로 구분	구도	RDC008
+TN_RODWAY_CTLN	차도중심선	ROAD_SE	도로 구분	공사중도로	RDC009
+TN_RODWAY_CTLN	차도중심선	ROAD_SE	도로 구분	면리간도로	RDC010
+TN_RODWAY_CTLN	차도중심선	ROAD_SE	도로 구분	부지안도로	RDC011
+TN_RODWAY_CTLN	차도중심선	ROAD_SE	도로 구분	건설예정도로	RDC012
+TN_RODWAY_CTLN	차도중심선	ROAD_SE	도로 구분	터널안도로	RDC013
+TN_RODWAY_CTLN	차도중심선	ROAD_SE	도로 구분	소로	RDC014
+TN_RODWAY_CTLN	차도중심선	USGSTT_SE	도로사용상태	건설예정	RUS001
+TN_RODWAY_CTLN	차도중심선	USGSTT_SE	도로사용상태	공사중	RUS002
+TN_RODWAY_CTLN	차도중심선	USGSTT_SE	도로사용상태	운영중	RUS003
+TN_RODWAY_CTLN	차도중심선	USGSTT_SE	도로사용상태	폐쇄	RUS004
+TN_RODWAY_CTLN	차도중심선	PMTR_SE	포장재질 구분	아스팔트	PVM001
+TN_RODWAY_CTLN	차도중심선	PMTR_SE	포장재질 구분	아스팔트콘크리트	PVM002
+TN_RODWAY_CTLN	차도중심선	PMTR_SE	포장재질 구분	콘크리트	PVM003
+TN_RODWAY_CTLN	차도중심선	PMTR_SE	포장재질 구분	블록	PVM004
+TN_RODWAY_CTLN	차도중심선	PMTR_SE	포장재질 구분	비포장	PVM005
+TN_RODWAY_CTLN	차도중심선	PMTR_SE	포장재질 구분	우레탄	PVM006
+TN_RODWAY_CTLN	차도중심선	PMTR_SE	포장재질 구분	고무	PVM007
+TN_RODWAY_CTLN	차도중심선	PMTR_SE	포장재질 구분	기타	PVM999
+TN_RODWAY_CTLN	차도중심선	EDENNC_AT	분리대유무 여부	분리대 유	1
+TN_RODWAY_CTLN	차도중심선	EDENNC_AT	분리대유무 여부	분리대 무	0
+TN_RODWAY_CTLN	차도중심선	CARTRK_CO	차로 수		
+TN_RODWAY_CTLN	차도중심선	ROAD_BT	도로 폭		
+TN_RODWAY_CTLN	차도중심선	OSPS_SE	일방통행 구분	일방통행	OWI001
+TN_RODWAY_CTLN	차도중심선	OSPS_SE	일방통행 구분	양방통행	OWI002
+TN_RODWAY_CTLN	차도중심선	MTRWY_SE	자동차전용도로 구분	일반	MWI001
+TN_RODWAY_CTLN	차도중심선	MTRWY_SE	자동차전용도로 구분	자동차전용	MWI002
+TN_RODWAY_CTLN	차도중심선	OBJECT_GT	객체 지오메트리		
+TN_RODWAY_CTLN	차도중심선	OBCHG_DT	객체변동 일시		
+TN_RODWAY_CTLN	차도중심선	MESRMTH_SE	수정측량방법		
+TN_RODWAY_CTLN	차도중심선	RSREG_DT	성과등록 일시		
+TN_RODWAY_CTLN	차도중심선	CSCHG_SE	객체변동구분	객체생성	CSC001
+TN_RODWAY_CTLN	차도중심선	CSCHG_SE	객체변동구분	공간도형과 속성을 함께 수정	CSC002
+TN_RODWAY_CTLN	차도중심선	CSCHG_SE	객체변동구분	공간도형만 수정	CSC003
+TN_RODWAY_CTLN	차도중심선	CSCHG_SE	객체변동구분	공간도형 분할	CSC004
+TN_RODWAY_CTLN	차도중심선	CSCHG_SE	객체변동구분	공간도형 합병	CSC005
+TN_RODWAY_CTLN	차도중심선	CSCHG_SE	객체변동구분	위치 이동	CSC006
+TN_RODWAY_CTLN	차도중심선	CSCHG_SE	객체변동구분	속성만 수정	CSC007
+TN_RODWAY_CTLN	차도중심선	CSCHG_SE	객체변동구분	객체 삭제	CSC008
+TN_RODWAY_CTLN	차도중심선	MNENT_NM	제작업체 명		
+TN_RODWAY_LINK	차도링크	NF_ID	고유식별자 아이디		
+TN_RODWAY_LINK	차도링크	BNODE_NFID	시작노드고유번호		
+TN_RODWAY_LINK	차도링크	ENODE_NFID	끝노드고유번호		
+TN_RODWAY_LINK	차도링크	LEGLCD_SE	법정동코드		
+TN_RODWAY_LINK	차도링크	RDLINK_SE	차도링크구분	평면링크	RWL000
+TN_RODWAY_LINK	차도링크	RDLINK_SE	차도링크구분	위상링크	RWL001
+TN_RODWAY_LINK	차도링크	RDLINK_SE	차도링크구분	다중위상링크2	RWL002
+TN_RODWAY_LINK	차도링크	RDLINK_SE	차도링크구분	다중위상링크3	RWL003
+TN_RODWAY_LINK	차도링크	RDLINK_SE	차도링크구분	다중위상링크4	RWL004
+TN_RODWAY_LINK	차도링크	RDLINK_SE	차도링크구분	다중위상링크5	RWL005
+TN_RODWAY_LINK	차도링크	RDLINK_SE	차도링크구분	다중위상링크6	RWL006
+TN_RODWAY_LINK	차도링크	RDLINK_SE	차도링크구분	다중위상링크7	RWL007
+TN_RODWAY_LINK	차도링크	RDLINK_SE	차도링크구분	다중위상링크8	RWL008
+TN_RODWAY_LINK	차도링크	RDLINK_SE	차도링크구분	다중위상링크9	RWL009
+TN_RODWAY_LINK	차도링크	TFCEQP_SE	교통시설정보	일반차도	RFI101
+TN_RODWAY_LINK	차도링크	TFCEQP_SE	교통시설정보	고가차도	RFI102
+TN_RODWAY_LINK	차도링크	TFCEQP_SE	교통시설정보	지하차도	RFI103
+TN_RODWAY_LINK	차도링크	TFCEQP_SE	교통시설정보	인터페인지	RFI104
+TN_RODWAY_LINK	차도링크	TFCEQP_SE	교통시설정보	교량	RFI201
+TN_RODWAY_LINK	차도링크	TFCEQP_SE	교통시설정보	터널	RFI202
+TN_RODWAY_LINK	차도링크	TFCEQP_SE	교통시설정보	일반철도	RFI301
+TN_RODWAY_LINK	차도링크	ROAD_NO	도로번호		
+TN_RODWAY_LINK	차도링크	ROAD_NM	도로명칭		
+TN_RODWAY_LINK	차도링크	ROAD_SE	도로구분	고속국도	RDC001
+TN_RODWAY_LINK	차도링크	ROAD_SE	도로구분	일반국도	RDC002
+TN_RODWAY_LINK	차도링크	ROAD_SE	도로구분	지방도	RDC003
+TN_RODWAY_LINK	차도링크	ROAD_SE	도로구분	특별시도	RDC004
+TN_RODWAY_LINK	차도링크	ROAD_SE	도로구분	광역시도	RDC005
+TN_RODWAY_LINK	차도링크	ROAD_SE	도로구분	시도	RDC006
+TN_RODWAY_LINK	차도링크	ROAD_SE	도로구분	군도	RDC007
+TN_RODWAY_LINK	차도링크	ROAD_SE	도로구분	구도	RDC008
+TN_RODWAY_LINK	차도링크	ROAD_SE	도로구분	공사중도로	RDC009
+TN_RODWAY_LINK	차도링크	ROAD_SE	도로구분	면리간도로	RDC010
+TN_RODWAY_LINK	차도링크	ROAD_SE	도로구분	부지안도로	RDC011
+TN_RODWAY_LINK	차도링크	ROAD_SE	도로구분	건설예정도로	RDC012
+TN_RODWAY_LINK	차도링크	ROAD_SE	도로구분	터널안도로	RDC013
+TN_RODWAY_LINK	차도링크	ROAD_SE	도로구분	소로	RDC014
+TN_RODWAY_LINK	차도링크	USGSTT_SE	도로사용상태	건설예정	RUS001
+TN_RODWAY_LINK	차도링크	USGSTT_SE	도로사용상태	공사중	RUS002
+TN_RODWAY_LINK	차도링크	USGSTT_SE	도로사용상태	운영중	RUS003
+TN_RODWAY_LINK	차도링크	USGSTT_SE	도로사용상태	폐쇄	RUS004
+TN_RODWAY_LINK	차도링크	PMTR_SE	포장재질	아스팔트	PVM001
+TN_RODWAY_LINK	차도링크	PMTR_SE	포장재질	아스팔트콘크리트	PVM002
+TN_RODWAY_LINK	차도링크	PMTR_SE	포장재질	콘크리트	PVM003
+TN_RODWAY_LINK	차도링크	PMTR_SE	포장재질	블록	PVM004
+TN_RODWAY_LINK	차도링크	PMTR_SE	포장재질	비포장	PVM005
+TN_RODWAY_LINK	차도링크	PMTR_SE	포장재질	우레탄	PVM006
+TN_RODWAY_LINK	차도링크	PMTR_SE	포장재질	고무	PVM007
+TN_RODWAY_LINK	차도링크	PMTR_SE	포장재질	기타	PVM999
+TN_RODWAY_LINK	차도링크	EDENNC_AT	분리대유무	유	1
+TN_RODWAY_LINK	차도링크	EDENNC_AT	분리대유무	무	0
+TN_RODWAY_LINK	차도링크	CARTRK_CO	차로수		
+TN_RODWAY_LINK	차도링크	ROAD_BT	도로폭		
+TN_RODWAY_LINK	차도링크	OSPS_SE	일방통행 구분	일방통행	OWI001
+TN_RODWAY_LINK	차도링크	OSPS_SE	일방통행 구분	양방통행	OWI002
+TN_RODWAY_LINK	차도링크	MTRWY_SE	자동차전용도로 구분	일반	MWI001
+TN_RODWAY_LINK	차도링크	MTRWY_SE	자동차전용도로 구분	자동차전용	MWI002
+TN_RODWAY_LINK	차도링크	OBJECT_GT	객체 지오메트리		
+TN_RODWAY_LINK	차도링크	OBCHG_DT	객체변동 일시		
+TN_RODWAY_LINK	차도링크	MESRMTH_SE	수정측량방법		
+TN_RODWAY_LINK	차도링크	RSREG_DT	성과등록 일시		
+TN_RODWAY_LINK	차도링크	MNENT_NM	제작업체 명		
+TN_RODWAY_NODE	차도노드	NF_ID	고유식별자 아이디		
+TN_RODWAY_NODE	차도노드	LEGLCD_SE1	법정동코드1		
+TN_RODWAY_NODE	차도노드	LEGLCD_SE2	법정동코드2		
+TN_RODWAY_NODE	차도노드	RDNODE_NM	차도노드명칭		
+TN_RODWAY_NODE	차도노드	RDNODE_SE	차도노드구분	끝점(DANGLE)	RWN001
+TN_RODWAY_NODE	차도노드	RDNODE_SE	차도노드구분	두점의 교차점(PSEUDO)	RWN002
+TN_RODWAY_NODE	차도노드	RDNODE_SE	차도노드구분	세점이상의 교차점(REGULAR)	RWN003
+TN_RODWAY_NODE	차도노드	RDNODE_SE	차도노드구분	PSEUDO 중 행정구역 경계노드	RWN004
+TN_RODWAY_NODE	차도노드	RDNODE_SE	차도노드구분	REGULAR 중 입체노드(위상노드)	RWN005
+TN_RODWAY_NODE	차도노드	RDNODE_SE	차도노드구분	DANGLE 중 도곽인접 노드	RWN006
+TN_RODWAY_NODE	차도노드	CLINK_CO	연결링크개수		
+TN_RODWAY_NODE	차도노드	NBND_NFID	인접노드NFID		
+TN_RODWAY_NODE	차도노드	OBJECT_GT	객체 지오메트리		
+TN_RODWAY_NODE	차도노드	OBCHG_DT	객체변동 일시		
+TN_RODWAY_NODE	차도노드	MESRMTH_SE	수정측량방법		
+TN_RODWAY_NODE	차도노드	RSREG_DT	성과등록 일시		
+TN_RODWAY_NODE	차도노드	MNENT_NM	제작업체 명		
+TN_RODWAY_BNDRY	차도경계면	NF_ID	고유식별자 아이디		
+TN_RODWAY_BNDRY	차도경계면	OBJECT_GT	객체 지오메트리		
+TN_RODWAY_BNDRY	차도경계면	OBCHG_DT	객체변동 일시		
+TN_RODWAY_BNDRY	차도경계면	MESRMTH_SE	수정측량방법		
+TN_RODWAY_BNDRY	차도경계면	RSREG_DT	성과등록 일시		
+TN_RODWAY_BNDRY	차도경계면	CSCHG_SE	객체변동구분	객체생성	CSC001
+TN_RODWAY_BNDRY	차도경계면	CSCHG_SE	객체변동구분	공간도형과 속성을 함께 수정	CSC002
+TN_RODWAY_BNDRY	차도경계면	CSCHG_SE	객체변동구분	공간도형만 수정	CSC003
+TN_RODWAY_BNDRY	차도경계면	CSCHG_SE	객체변동구분	공간도형 분할	CSC004
+TN_RODWAY_BNDRY	차도경계면	CSCHG_SE	객체변동구분	공간도형 합병	CSC005
+TN_RODWAY_BNDRY	차도경계면	CSCHG_SE	객체변동구분	위치 이동	CSC006
+TN_RODWAY_BNDRY	차도경계면	CSCHG_SE	객체변동구분	속성만 수정	CSC007
+TN_RODWAY_BNDRY	차도경계면	CSCHG_SE	객체변동구분	객체 삭제	CSC008
+TN_RODWAY_BNDRY	차도경계면	MNENT_NM	제작업체 명		
+TN_RODWAY_BNDRYLN	차도경계선	NF_ID	고유식별자 아이디		
+TN_RODWAY_BNDRYLN	차도경계선	ROAD_SE	도로구분	고속국도	RDC001
+TN_RODWAY_BNDRYLN	차도경계선	ROAD_SE	도로구분	일반국도	RDC002
+TN_RODWAY_BNDRYLN	차도경계선	ROAD_SE	도로구분	지방도	RDC003
+TN_RODWAY_BNDRYLN	차도경계선	ROAD_SE	도로구분	특별시도	RDC004
+TN_RODWAY_BNDRYLN	차도경계선	ROAD_SE	도로구분	광역시도	RDC005
+TN_RODWAY_BNDRYLN	차도경계선	ROAD_SE	도로구분	시도	RDC006
+TN_RODWAY_BNDRYLN	차도경계선	ROAD_SE	도로구분	군도	RDC007
+TN_RODWAY_BNDRYLN	차도경계선	ROAD_SE	도로구분	구도	RDC008
+TN_RODWAY_BNDRYLN	차도경계선	ROAD_SE	도로구분	공사중도로	RDC009
+TN_RODWAY_BNDRYLN	차도경계선	ROAD_SE	도로구분	부지안도로	RDC011
+TN_RODWAY_BNDRYLN	차도경계선	ROAD_SE	도로구분	건설예정도로	RDC012
+TN_RODWAY_BNDRYLN	차도경계선	ROAD_SE	도로구분	터널안도로	RDC013
+TN_RODWAY_BNDRYLN	차도경계선	OBJECT_GT	객체 지오메트리		
+TN_RODWAY_BNDRYLN	차도경계선	OBCHG_DT	객체변동 일시		
+TN_RODWAY_BNDRYLN	차도경계선	MESRMTH_SE	수정측량방법		
+TN_RODWAY_BNDRYLN	차도경계선	RSREG_DT	성과등록 일시		
+TN_RODWAY_BNDRYLN	차도경계선	CSCHG_SE	객체변동구분	객체생성	CSC001
+TN_RODWAY_BNDRYLN	차도경계선	CSCHG_SE	객체변동구분	공간도형과 속성을 함께 수정	CSC002
+TN_RODWAY_BNDRYLN	차도경계선	CSCHG_SE	객체변동구분	공간도형만 수정	CSC003
+TN_RODWAY_BNDRYLN	차도경계선	CSCHG_SE	객체변동구분	공간도형 분할	CSC004
+TN_RODWAY_BNDRYLN	차도경계선	CSCHG_SE	객체변동구분	공간도형 합병	CSC005
+TN_RODWAY_BNDRYLN	차도경계선	CSCHG_SE	객체변동구분	위치 이동	CSC006
+TN_RODWAY_BNDRYLN	차도경계선	CSCHG_SE	객체변동구분	속성만 수정	CSC007
+TN_RODWAY_BNDRYLN	차도경계선	CSCHG_SE	객체변동구분	객체 삭제	CSC008
+TN_RODWAY_BNDRYLN	차도경계선	MNENT_NM	제작업체 명		
+TN_FTPTH_CTLN	보도중심선	NF_ID	고유식별자 아이디		
+TN_FTPTH_CTLN	보도중심선	PMTR_SE	포장재질 구분	아스팔트	PVM001
+TN_FTPTH_CTLN	보도중심선	PMTR_SE	포장재질 구분	아스팔트콘크리트	PVM002
+TN_FTPTH_CTLN	보도중심선	PMTR_SE	포장재질 구분	콘크리트	PVM003
+TN_FTPTH_CTLN	보도중심선	PMTR_SE	포장재질 구분	블록	PVM004
+TN_FTPTH_CTLN	보도중심선	PMTR_SE	포장재질 구분	비포장	PVM005
+TN_FTPTH_CTLN	보도중심선	PMTR_SE	포장재질 구분	우레탄	PVM006
+TN_FTPTH_CTLN	보도중심선	PMTR_SE	포장재질 구분	고무	PVM007
+TN_FTPTH_CTLN	보도중심선	PMTR_SE	포장재질 구분	기타	PVM999
+TN_FTPTH_CTLN	보도중심선	OBJECT_GT	객체 지오메트리		
+TN_FTPTH_CTLN	보도중심선	OBCHG_DT	객체변동 일시		
+TN_FTPTH_CTLN	보도중심선	MESRMTH_SE	수정측량방법		
+TN_FTPTH_CTLN	보도중심선	RSREG_DT	성과등록 일시		
+TN_FTPTH_CTLN	보도중심선	CSCHG_SE	객체변동구분	객체생성	CSC001
+TN_FTPTH_CTLN	보도중심선	CSCHG_SE	객체변동구분	공간도형과 속성을 함께 수정	CSC002
+TN_FTPTH_CTLN	보도중심선	CSCHG_SE	객체변동구분	공간도형만 수정	CSC003
+TN_FTPTH_CTLN	보도중심선	CSCHG_SE	객체변동구분	공간도형 분할	CSC004
+TN_FTPTH_CTLN	보도중심선	CSCHG_SE	객체변동구분	공간도형 합병	CSC005
+TN_FTPTH_CTLN	보도중심선	CSCHG_SE	객체변동구분	위치 이동	CSC006
+TN_FTPTH_CTLN	보도중심선	CSCHG_SE	객체변동구분	속성만 수정	CSC007
+TN_FTPTH_CTLN	보도중심선	CSCHG_SE	객체변동구분	객체 삭제	CSC008
+TN_FTPTH_CTLN	보도중심선	MNENT_NM	제작업체 명		
+TN_FTPTH_BNDRY	보도경계면	NF_ID	고유식별자 아이디		
+TN_FTPTH_BNDRY	보도경계면	OBJECT_GT	객체 지오메트리		
+TN_FTPTH_BNDRY	보도경계면	OBCHG_DT	객체변동 일시		
+TN_FTPTH_BNDRY	보도경계면	MESRMTH_SE	수정측량방법		
+TN_FTPTH_BNDRY	보도경계면	RSREG_DT	성과등록 일시		
+TN_FTPTH_BNDRY	보도경계면	CSCHG_SE	객체변동구분	객체생성	CSC001
+TN_FTPTH_BNDRY	보도경계면	CSCHG_SE	객체변동구분	공간도형과 속성을 함께 수정	CSC002
+TN_FTPTH_BNDRY	보도경계면	CSCHG_SE	객체변동구분	공간도형만 수정	CSC003
+TN_FTPTH_BNDRY	보도경계면	CSCHG_SE	객체변동구분	공간도형 분할	CSC004
+TN_FTPTH_BNDRY	보도경계면	CSCHG_SE	객체변동구분	공간도형 합병	CSC005
+TN_FTPTH_BNDRY	보도경계면	CSCHG_SE	객체변동구분	위치 이동	CSC006
+TN_FTPTH_BNDRY	보도경계면	CSCHG_SE	객체변동구분	속성만 수정	CSC007
+TN_FTPTH_BNDRY	보도경계면	CSCHG_SE	객체변동구분	객체 삭제	CSC008
+TN_FTPTH_BNDRY	보도경계면	MNENT_NM	제작업체 명		
+TN_BCYCL_CTLN	자전거도로중심선	NF_ID	고유식별자 아이디		
+TN_BCYCL_CTLN	자전거도로중심선	BCYKND_SE	자전거도로종류 구분	자전거전용도로	BIW001
+TN_BCYCL_CTLN	자전거도로중심선	BCYKND_SE	자전거도로종류 구분	자전거보행자겸용도로	BIW002
+TN_BCYCL_CTLN	자전거도로중심선	BCYKND_SE	자전거도로종류 구분	자전거자동차겸용도로	BIW003
+TN_BCYCL_CTLN	자전거도로중심선	PMTR_SE	포장재질 구분	아스팔트	PVM001
+TN_BCYCL_CTLN	자전거도로중심선	PMTR_SE	포장재질 구분	아스팔트콘크리트	PVM002
+TN_BCYCL_CTLN	자전거도로중심선	PMTR_SE	포장재질 구분	콘크리트	PVM003
+TN_BCYCL_CTLN	자전거도로중심선	PMTR_SE	포장재질 구분	블록	PVM004
+TN_BCYCL_CTLN	자전거도로중심선	PMTR_SE	포장재질 구분	비포장	PVM005
+TN_BCYCL_CTLN	자전거도로중심선	PMTR_SE	포장재질 구분	우레탄	PVM006
+TN_BCYCL_CTLN	자전거도로중심선	PMTR_SE	포장재질 구분	고무	PVM007
+TN_BCYCL_CTLN	자전거도로중심선	PMTR_SE	포장재질 구분	기타	PVM999
+TN_BCYCL_CTLN	자전거도로중심선	OBJECT_GT	객체 지오메트리		
+TN_BCYCL_CTLN	자전거도로중심선	OBCHG_DT	객체변동 일시		
+TN_BCYCL_CTLN	자전거도로중심선	MESRMTH_SE	수정측량방법		
+TN_BCYCL_CTLN	자전거도로중심선	RSREG_DT	성과등록 일시		
+TN_BCYCL_CTLN	자전거도로중심선	CSCHG_SE	객체변동구분	객체생성	CSC001
+TN_BCYCL_CTLN	자전거도로중심선	CSCHG_SE	객체변동구분	공간도형과 속성을 함께 수정	CSC002
+TN_BCYCL_CTLN	자전거도로중심선	CSCHG_SE	객체변동구분	공간도형만 수정	CSC003
+TN_BCYCL_CTLN	자전거도로중심선	CSCHG_SE	객체변동구분	공간도형 분할	CSC004
+TN_BCYCL_CTLN	자전거도로중심선	CSCHG_SE	객체변동구분	공간도형 합병	CSC005
+TN_BCYCL_CTLN	자전거도로중심선	CSCHG_SE	객체변동구분	위치 이동	CSC006
+TN_BCYCL_CTLN	자전거도로중심선	CSCHG_SE	객체변동구분	속성만 수정	CSC007
+TN_BCYCL_CTLN	자전거도로중심선	CSCHG_SE	객체변동구분	객체 삭제	CSC008
+TN_BCYCL_CTLN	자전거도로중심선	MNENT_NM	제작업체 명		
+TN_ARRFC	면형도로시설	NF_ID	고유식별자 아이디		
+TN_ARRFC	면형도로시설	ARRFC_NM	면형도로시설 명칭		
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	정류장시설	PRF001
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	도로교	PRF002
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	보행교	PRF003
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	철도교	PRF004
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	도로보행교	PRF005
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	도로철도교	PRF006
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	철도보행교	PRF007
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	생태교	PRF008
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	도로터널	PRF009
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	공용터널	PRF010
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	철도터널	PRF011
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	지하보도	PRF012
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	육교	PRF013
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	횡단보도	PRF014
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	고가차도	PRF015
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	지하차도	PRF016
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	인터체인지	PRF017
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	교통섬	PRF018
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	어린이보호구역	PRF019
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	노인보호구역	PRF020
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	유류주유소	PRF021
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	가스충전소	PRF022
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	전기충전소	PRF023
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	고속국도휴게소	PRF024
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	일반국도휴게소	PRF025
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	지방도휴게소	PRF026
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	졸음쉼터	PRF027
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	주차장	PRF028
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	지하철역입구	PRF029
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	요금소	PRF030
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	도로점용시설	PRF031
+TN_ARRFC	면형도로시설	ARRFCKD_SE	면형교통시설종류 구분	기타	PRF999
+TN_ARRFC	면형도로시설	ARRFCPH_SE	면형도로시설위상관계 구분	평면/단독	POT001
+TN_ARRFC	면형도로시설	ARRFCPH_SE	면형도로시설위상관계 구분	평면/포함함	POT002
+TN_ARRFC	면형도로시설	ARRFCPH_SE	면형도로시설위상관계 구분	평면/포함된	POT003
+TN_ARRFC	면형도로시설	ARRFCPH_SE	면형도로시설위상관계 구분	입체/지하	POT004
+TN_ARRFC	면형도로시설	ARRFCPH_SE	면형도로시설위상관계 구분	입체/공중	POT005
+TN_ARRFC	면형도로시설	ARRFCPH_SE	면형도로시설위상관계 구분	입체/다중	POT006
+TN_ARRFC	면형도로시설	ARRFCMT_SE	면형도로시설재질 구분	아스팔트	POM001
+TN_ARRFC	면형도로시설	ARRFCMT_SE	면형도로시설재질 구분	아스팔트콘크리트	POM002
+TN_ARRFC	면형도로시설	ARRFCMT_SE	면형도로시설재질 구분	콘크리트	POM003
+TN_ARRFC	면형도로시설	ARRFCMT_SE	면형도로시설재질 구분	강재	POM004
+TN_ARRFC	면형도로시설	ARRFCMT_SE	면형도로시설재질 구분	목재	POM005
+TN_ARRFC	면형도로시설	ARRFCMT_SE	면형도로시설재질 구분	석재	POM006
+TN_ARRFC	면형도로시설	ARRFCMT_SE	면형도로시설재질 구분	해당없음	POM099
+TN_ARRFC	면형도로시설	ARRFCMT_SE	면형도로시설재질 구분	기타	POM999
+TN_ARRFC	면형도로시설	OBJECT_GT	객체 지오메트리		
+TN_ARRFC	면형도로시설	OBCHG_DT	객체변동 일시		
+TN_ARRFC	면형도로시설	MESRMTH_SE	수정측량방법		
+TN_ARRFC	면형도로시설	RSREG_DT	성과등록 일시		
+TN_ARRFC	면형도로시설	CSCHG_SE	객체변동구분	객체생성	CSC001
+TN_ARRFC	면형도로시설	CSCHG_SE	객체변동구분	공간도형과 속성을 함께 수정	CSC002
+TN_ARRFC	면형도로시설	CSCHG_SE	객체변동구분	공간도형만 수정	CSC003
+TN_ARRFC	면형도로시설	CSCHG_SE	객체변동구분	공간도형 분할	CSC004
+TN_ARRFC	면형도로시설	CSCHG_SE	객체변동구분	공간도형 합병	CSC005
+TN_ARRFC	면형도로시설	CSCHG_SE	객체변동구분	위치 이동	CSC006
+TN_ARRFC	면형도로시설	CSCHG_SE	객체변동구분	속성만 수정	CSC007
+TN_ARRFC	면형도로시설	CSCHG_SE	객체변동구분	객체 삭제	CSC008
+TN_ARRFC	면형도로시설	MNENT_NM	제작업체 명		
+TN_LNRFC	선형도로시설	NF_ID	고유식별자 아이디		
+TN_LNRFC	선형도로시설	LNRFCKD_SE	선형도로시설종류 구분	분리대	LRF001
+TN_LNRFC	선형도로시설	LNRFCKD_SE	선형도로시설종류 구분	기타	LRF999
+TN_LNRFC	선형도로시설	LNRFCST_SE	선형도로시설구조 구분	화단	LIS001
+TN_LNRFC	선형도로시설	LNRFCST_SE	선형도로시설구조 구분	콘크리트	LIS002
+TN_LNRFC	선형도로시설	LNRFCST_SE	선형도로시설구조 구분	철제	LIS003
+TN_LNRFC	선형도로시설	LNRFCST_SE	선형도로시설구조 구분	플라스틱	LIS004
+TN_LNRFC	선형도로시설	LNRFCST_SE	선형도로시설구조 구분	기타	LIS999
+TN_LNRFC	선형도로시설	OBJECT_GT	객체 지오메트리		
+TN_LNRFC	선형도로시설	OBCHG_DT	객체변동 일시		
+TN_LNRFC	선형도로시설	MESRMTH_SE	수정측량방법		
+TN_LNRFC	선형도로시설	RSREG_DT	성과등록 일시		
+TN_LNRFC	선형도로시설	CSCHG_SE	객체변동구분	객체생성	CSC001
+TN_LNRFC	선형도로시설	CSCHG_SE	객체변동구분	공간도형과 속성을 함께 수정	CSC002
+TN_LNRFC	선형도로시설	CSCHG_SE	객체변동구분	공간도형만 수정	CSC003
+TN_LNRFC	선형도로시설	CSCHG_SE	객체변동구분	공간도형 분할	CSC004
+TN_LNRFC	선형도로시설	CSCHG_SE	객체변동구분	공간도형 합병	CSC005
+TN_LNRFC	선형도로시설	CSCHG_SE	객체변동구분	위치 이동	CSC006
+TN_LNRFC	선형도로시설	CSCHG_SE	객체변동구분	속성만 수정	CSC007
+TN_LNRFC	선형도로시설	CSCHG_SE	객체변동구분	객체 삭제	CSC008
+TN_LNRFC	선형도로시설	MNENT_NM	제작업체 명		
+TN_PTRFC	점형도로시설	NF_ID	고유식별자 아이디		
+TN_PTRFC	점형도로시설	PTRFC_NM	점형도로시설 명칭		
+TN_PTRFC	점형도로시설	PTRFCKD_SE	점형도로시설종류 구분	버스정류장	IRF001
+TN_PTRFC	점형도로시설	PTRFCKD_SE	점형도로시설종류 구분	택시정류장	IRF002
+TN_PTRFC	점형도로시설	OBJECT_GT	객체 지오메트리		
+TN_PTRFC	점형도로시설	OBCHG_DT	객체변동 일시		
+TN_PTRFC	점형도로시설	MESRMTH_SE	수정측량방법		
+TN_PTRFC	점형도로시설	RSREG_DT	성과등록 일시		
+TN_PTRFC	점형도로시설	CSCHG_SE	객체변동구분	객체생성	CSC001
+TN_PTRFC	점형도로시설	CSCHG_SE	객체변동구분	공간도형과 속성을 함께 수정	CSC002
+TN_PTRFC	점형도로시설	CSCHG_SE	객체변동구분	공간도형만 수정	CSC003
+TN_PTRFC	점형도로시설	CSCHG_SE	객체변동구분	공간도형 분할	CSC004
+TN_PTRFC	점형도로시설	CSCHG_SE	객체변동구분	공간도형 합병	CSC005
+TN_PTRFC	점형도로시설	CSCHG_SE	객체변동구분	위치 이동	CSC006
+TN_PTRFC	점형도로시설	CSCHG_SE	객체변동구분	속성만 수정	CSC007
+TN_PTRFC	점형도로시설	CSCHG_SE	객체변동구분	객체 삭제	CSC008
+TN_PTRFC	점형도로시설	MNENT_NM	제작업체 명		
+TN_RLROAD_CTLN	철도중심선	NF_ID	고유식별자 아이디		
+TN_RLROAD_CTLN	철도중심선	RLWAY_NM	철도선로 명칭		
+TN_RLROAD_CTLN	철도중심선	RLROAD_SE	철도 구분	고속철도	RRC001
+TN_RLROAD_CTLN	철도중심선	RLROAD_SE	철도 구분	보통철도	RRC002
+TN_RLROAD_CTLN	철도중심선	RLROAD_SE	철도 구분	특수철도	RRC003
+TN_RLROAD_CTLN	철도중심선	RLROAD_SE	철도 구분	지하철(지상)	RRC004
+TN_RLROAD_CTLN	철도중심선	RLROAD_SE	철도 구분	삭도(케이블카)	RRC005
+TN_RLROAD_CTLN	철도중심선	RLROAD_SE	철도 구분	모노레일	RRC006
+TN_RLROAD_CTLN	철도중심선	RLROAD_SE	철도 구분	기타	RRC999
+TN_RLROAD_CTLN	철도중심선	RLWTY_SE	철도선로유형 구분	철도중심선	RRT001
+TN_RLROAD_CTLN	철도중심선	RLWTY_SE	철도선로유형 구분	선로	RRT002
+TN_RLROAD_CTLN	철도중심선	OBJECT_GT	객체 지오메트리		
+TN_RLROAD_CTLN	철도중심선	OBCHG_DT	객체변동 일시		
+TN_RLROAD_CTLN	철도중심선	MESRMTH_SE	수정측량방법		
+TN_RLROAD_CTLN	철도중심선	RSREG_DT	성과등록 일시		
+TN_RLROAD_CTLN	철도중심선	MNENT_NM	제작업체 명		
+TN_RLROAD_LINK	철도링크	NF_ID	고유식별자 아이디		
+TN_RLROAD_LINK	철도링크	BNODE_ID	시작노드고유번호		
+TN_RLROAD_LINK	철도링크	ENODE_ID	끝노드고유번호		
+TN_RLROAD_LINK	철도링크	RLWLINK_SE	철도링크구분	평면링크	RRL000
+TN_RLROAD_LINK	철도링크	RLWLINK_SE	철도링크구분	위상링크	RRL001
+TN_RLROAD_LINK	철도링크	RLWLINK_SE	철도링크구분	다중위상링크2	RRL002
+TN_RLROAD_LINK	철도링크	RLWLINK_SE	철도링크구분	다중위상링크3	RRL003
+TN_RLROAD_LINK	철도링크	RLWLINK_SE	철도링크구분	다중위상링크4	RRL004
+TN_RLROAD_LINK	철도링크	RLWLINK_SE	철도링크구분	다중위상링크5	RRL005
+TN_RLROAD_LINK	철도링크	RLWLINK_SE	철도링크구분	다중위상링크6	RRL006
+TN_RLROAD_LINK	철도링크	RLWLINK_SE	철도링크구분	다중위상링크7	RRL007
+TN_RLROAD_LINK	철도링크	RLWLINK_SE	철도링크구분	다중위상링크8	RRL008
+TN_RLROAD_LINK	철도링크	RLWLINK_SE	철도링크구분	다중위상링크9	RRL009
+TN_RLROAD_LINK	철도링크	TFCEQP_SE	교통시설종류 구분	일반차도	RFI101
+TN_RLROAD_LINK	철도링크	TFCEQP_SE	교통시설종류 구분	고가차도	RFI102
+TN_RLROAD_LINK	철도링크	TFCEQP_SE	교통시설종류 구분	지하차도	RFI103
+TN_RLROAD_LINK	철도링크	TFCEQP_SE	교통시설종류 구분	인터페인지	RFI104
+TN_RLROAD_LINK	철도링크	TFCEQP_SE	교통시설종류 구분	교량	RFI201
+TN_RLROAD_LINK	철도링크	TFCEQP_SE	교통시설종류 구분	터널	RFI202
+TN_RLROAD_LINK	철도링크	TFCEQP_SE	교통시설종류 구분	일반철도	RFI301
+TN_RLROAD_LINK	철도링크	RLWAY_NM	철도선로명칭		
+TN_RLROAD_LINK	철도링크	RLROAD_SE	철도구분	고속철도	RRC001
+TN_RLROAD_LINK	철도링크	RLROAD_SE	철도구분	보통철도	RRC002
+TN_RLROAD_LINK	철도링크	RLROAD_SE	철도구분	특수철도	RRC003
+TN_RLROAD_LINK	철도링크	RLROAD_SE	철도구분	지하철(지상)	RRC004
+TN_RLROAD_LINK	철도링크	RLROAD_SE	철도구분	삭도(케이블카)	RRC005
+TN_RLROAD_LINK	철도링크	RLROAD_SE	철도구분	모노레일	RRC006
+TN_RLROAD_LINK	철도링크	RLROAD_SE	철도구분	기타	RRC999
+TN_RLROAD_LINK	철도링크	RLWAYTY_SE	철도선로유형 구분	철도중심선	RRT001
+TN_RLROAD_LINK	철도링크	RLWAYTY_SE	철도선로유형 구분	선로	RRT002
+TN_RLROAD_LINK	철도링크	OBJECT_GT	객체 지오메트리		
+TN_RLROAD_LINK	철도링크	OBCHG_DT	객체변동 일시		
+TN_RLROAD_LINK	철도링크	MESRMTH_SE	수정측량방법		
+TN_RLROAD_LINK	철도링크	RSREG_DT	성과등록 일시		
+TN_RLROAD_LINK	철도링크	MNENT_NM	제작업체 명		
+TN_RLROAD_NODE	철도노드	NF_ID	고유식별자 아이디		
+TN_RLROAD_NODE	철도노드	LEGLCD_SE1	법정동코드1		
+TN_RLROAD_NODE	철도노드	LEGLCD_SE2	법정동코드2		
+TN_RLROAD_NODE	철도노드	RLNODE_NM	철도노드명칭		
+TN_RLROAD_NODE	철도노드	RLNODE_SE	철도노드구분	끝점(DANGLE)	RRN001
+TN_RLROAD_NODE	철도노드	RLNODE_SE	철도노드구분	두점의 교차점(PSEUDO)	RRN002
+TN_RLROAD_NODE	철도노드	RLNODE_SE	철도노드구분	세점이상의 교차점(REGULAR)	RRN003
+TN_RLROAD_NODE	철도노드	RLNODE_SE	철도노드구분	PSEUDO 중 행정구역 경계노드	RRN004
+TN_RLROAD_NODE	철도노드	RLNODE_SE	철도노드구분	REGULAR 중 입체노드(위상노드)	RRN005
+TN_RLROAD_NODE	철도노드	RLNODE_SE	철도노드구분	DANGLE 중 도곽인접 노드	RRN006
+TN_RLROAD_NODE	철도노드	CLINK_CO	연결링크개수		
+TN_RLROAD_NODE	철도노드	NBND_NFID	인접노드번호		
+TN_RLROAD_NODE	철도노드	OBJECT_GT	객체 지오메트리		
+TN_RLROAD_NODE	철도노드	OBCHG_DT	객체변동 일시		
+TN_RLROAD_NODE	철도노드	MESRMTH_SE	수정측량방법		
+TN_RLROAD_NODE	철도노드	RSREG_DT	성과등록 일시		
+TN_RLROAD_NODE	철도노드	MNENT_NM	제작업체 명		
+TN_RLROAD_BNDRY	철도경계면	NF_ID	고유식별자 아이디		
+TN_RLROAD_BNDRY	철도경계면	OBJECT_GT	객체 지오메트리		
+TN_RLROAD_BNDRY	철도경계면	OBCHG_DT	객체변동 일시		
+TN_RLROAD_BNDRY	철도경계면	MESRMTH_SE	수정측량방법		
+TN_RLROAD_BNDRY	철도경계면	RSREG_DT	성과등록 일시		
+TN_RLROAD_BNDRY	철도경계면	MNENT_NM	제작업체 명		
+TN_ARWFC	면형철도시설	NF_ID	고유식별자 아이디		
+TN_ARWFC	면형철도시설	ARWFC_NM	면형철도시설 명칭		
+TN_ARWFC	면형철도시설	ARWFCKD_SE	면형철도시설종류 구분	철도정거장	RAF001
+TN_ARWFC	면형철도시설	ARWFCKD_SE	면형철도시설종류 구분	지하철역	RAF002
+TN_ARWFC	면형철도시설	ARWFCKD_SE	면형철도시설종류 구분	철도/지하철 공용	RAF003
+TN_ARWFC	면형철도시설	ARWFCKD_SE	면형철도시설종류 구분	승강장	RAF004
+TN_ARWFC	면형철도시설	ARWFCKD_SE	면형철도시설종류 구분	기타	RAF999
+TN_ARWFC	면형철도시설	OBJECT_GT	객체 지오메트리		
+TN_ARWFC	면형철도시설	OBCHG_DT	객체변동 일시		
+TN_ARWFC	면형철도시설	MESRMTH_SE	수정측량방법		
+TN_ARWFC	면형철도시설	RSREG_DT	성과등록 일시		
+TN_ARWFC	면형철도시설	MNENT_NM	제작업체 명		
+TN_PTWFC	점형철도시설	NF_ID	고유식별자 아이디		
+TN_PTWFC	점형철도시설	PTWFC_NM	점형철도시설 명칭		
+TN_PTWFC	점형철도시설	PTWFCKD_SE	점형철도시설종류 구분	철도정거장	RAF001
+TN_PTWFC	점형철도시설	PTWFCKD_SE	점형철도시설종류 구분	지하철역	RAF002
+TN_PTWFC	점형철도시설	PTWFCKD_SE	점형철도시설종류 구분	철도/지하철 공용	RAF003
+TN_PTWFC	점형철도시설	PTWFCKD_SE	점형철도시설종류 구분	승강장	RAF004
+TN_PTWFC	점형철도시설	PTWFCKD_SE	점형철도시설종류 구분	기타	RAF999
+TN_PTWFC	점형철도시설	OBJECT_GT	객체 지오메트리		
+TN_PTWFC	점형철도시설	OBCHG_DT	객체변동 일시		
+TN_PTWFC	점형철도시설	MESRMTH_SE	수정측량방법		
+TN_PTWFC	점형철도시설	RSREG_DT	성과등록 일시		
+TN_PTWFC	점형철도시설	MNENT_NM	제작업체 명		
+TN_ARAFC	면형공항시설	NF_ID	고유식별자 아이디		
+TN_ARAFC	면형공항시설	ARAFC_NM	면형공항시설 명칭		
+TN_ARAFC	면형공항시설	ARAFCKD_SE	면형공항시설종류 구분	공항시설	APF001
+TN_ARAFC	면형공항시설	ARAFCKD_SE	면형공항시설종류 구분	공항부속시설	APF002
+TN_ARAFC	면형공항시설	ARAFCKD_SE	면형공항시설종류 구분	계류장	APF003
+TN_ARAFC	면형공항시설	ARAFCKD_SE	면형공항시설종류 구분	등대/항공	APF004
+TN_ARAFC	면형공항시설	ARAFCKD_SE	면형공항시설종류 구분	활주로	APF005
+TN_ARAFC	면형공항시설	ARAFCKD_SE	면형공항시설종류 구분	철책	APF006
+TN_ARAFC	면형공항시설	ARAFCKD_SE	면형공항시설종류 구분	기타	APF999
+TN_ARAFC	면형공항시설	OBJECT_GT	객체 지오메트리		
+TN_ARAFC	면형공항시설	OBCHG_DT	객체변동 일시		
+TN_ARAFC	면형공항시설	MESRMTH_SE	수정측량방법		
+TN_ARAFC	면형공항시설	RSREG_DT	성과등록 일시		
+TN_ARAFC	면형공항시설	MNENT_NM	제작업체 명		
+TN_LNAFC	선형공항시설	NF_ID	고유식별자 아이디		
+TN_LNAFC	선형공항시설	LNAFCKD_SE	선형공항시설종류 구분	공항시설	APF001
+TN_LNAFC	선형공항시설	LNAFCKD_SE	선형공항시설종류 구분	공항부속시설	APF002
+TN_LNAFC	선형공항시설	LNAFCKD_SE	선형공항시설종류 구분	계류장	APF003
+TN_LNAFC	선형공항시설	LNAFCKD_SE	선형공항시설종류 구분	등대/항공	APF004
+TN_LNAFC	선형공항시설	LNAFCKD_SE	선형공항시설종류 구분	활주로	APF005
+TN_LNAFC	선형공항시설	LNAFCKD_SE	선형공항시설종류 구분	철책	APF006
+TN_LNAFC	선형공항시설	LNAFCKD_SE	선형공항시설종류 구분	기타	APF999
+TN_LNAFC	선형공항시설	OBJECT_GT	객체 지오메트리		
+TN_LNAFC	선형공항시설	OBCHG_DT	객체변동 일시		
+TN_LNAFC	선형공항시설	MESRMTH_SE	수정측량방법		
+TN_LNAFC	선형공항시설	RSREG_DT	성과등록 일시		
+TN_LNAFC	선형공항시설	MNENT_NM	제작업체 명		
+TN_PTAFC	점형공항시설	NF_ID	고유식별자 아이디		
+TN_PTAFC	점형공항시설	PTAFC_NM	면형공항시설 명칭		
+TN_PTAFC	점형공항시설	PTAFCKD_SE	점형공항시설종류 구분	공항시설	APF001
+TN_PTAFC	점형공항시설	PTAFCKD_SE	점형공항시설종류 구분	공항부속시설	APF002
+TN_PTAFC	점형공항시설	PTAFCKD_SE	점형공항시설종류 구분	계류장	APF003
+TN_PTAFC	점형공항시설	PTAFCKD_SE	점형공항시설종류 구분	등대/항공	APF004
+TN_PTAFC	점형공항시설	PTAFCKD_SE	점형공항시설종류 구분	활주로	APF005
+TN_PTAFC	점형공항시설	PTAFCKD_SE	점형공항시설종류 구분	철책	APF006
+TN_PTAFC	점형공항시설	PTAFCKD_SE	점형공항시설종류 구분	기타	APF999
+TN_PTAFC	점형공항시설	OBJECT_GT	객체 지오메트리		
+TN_PTAFC	점형공항시설	OBCHG_DT	객체변동 일시		
+TN_PTAFC	점형공항시설	MESRMTH_SE	수정측량방법		
+TN_PTAFC	점형공항시설	RSREG_DT	성과등록 일시		
+TN_PTAFC	점형공항시설	MNENT_NM	제작업체 명		
+TN_ARHFC	면형항만시설	NF_ID	고유식별자 아이디		
+TN_ARHFC	면형항만시설	ARHFC_NM	면형항만시설 명칭		
+TN_ARHFC	면형항만시설	ARHFCKD_SE	면형항만시설종류 구분	등대/항해	POF001
+TN_ARHFC	면형항만시설	ARHFCKD_SE	면형항만시설종류 구분	등대/기타	POF002
+TN_ARHFC	면형항만시설	ARHFCKD_SE	면형항만시설종류 구분	항구	POF003
+TN_ARHFC	면형항만시설	ARHFCKD_SE	면형항만시설종류 구분	선착장	POF004
+TN_ARHFC	면형항만시설	ARHFCKD_SE	면형항만시설종류 구분	기타	POF999
+TN_ARHFC	면형항만시설	OBJECT_GT	객체 지오메트리		
+TN_ARHFC	면형항만시설	OBCHG_DT	객체변동 일시		
+TN_ARHFC	면형항만시설	MESRMTH_SE	수정측량방법		
+TN_ARHFC	면형항만시설	RSREG_DT	성과등록 일시		
+TN_ARHFC	면형항만시설	MNENT_NM	제작업체 명		
+TN_PTHFC	점형항만시설	NF_ID	고유식별자 아이디		
+TN_PTHFC	점형항만시설	PTHFC_NM	점형항만시설 명칭		
+TN_PTHFC	점형항만시설	PTHFCKD_SE	점형항만시설종류 구분	등대/항해	POF001
+TN_PTHFC	점형항만시설	PTHFCKD_SE	점형항만시설종류 구분	등대/기타	POF002
+TN_PTHFC	점형항만시설	PTHFCKD_SE	점형항만시설종류 구분	항구	POF003
+TN_PTHFC	점형항만시설	PTHFCKD_SE	점형항만시설종류 구분	선착장	POF004
+TN_PTHFC	점형항만시설	PTHFCKD_SE	점형항만시설종류 구분	기타	POF999
+TN_PTHFC	점형항만시설	OBJECT_GT	객체 지오메트리		
+TN_PTHFC	점형항만시설	OBCHG_DT	객체변동 일시		
+TN_PTHFC	점형항만시설	MESRMTH_SE	수정측량방법		
+TN_PTHFC	점형항만시설	RSREG_DT	성과등록 일시		
+TN_PTHFC	점형항만시설	MNENT_NM	제작업체 명		
+TN_BULD	건물	NF_ID	고유식별자 아이디		
+TN_BULD	건물	MOLIT_UFID	국토부 UFID		
+TN_BULD	건물	BPRP_SE	건물용도 구분	주거용단독주택	BDU001
+TN_BULD	건물	BPRP_SE	건물용도 구분	주거용공동주택	BDU002
+TN_BULD	건물	BPRP_SE	건물용도 구분	제1종근린생활시설	BDU003
+TN_BULD	건물	BPRP_SE	건물용도 구분	제2종근린생활시설	BDU004
+TN_BULD	건물	BPRP_SE	건물용도 구분	문화및집회시설	BDU005
+TN_BULD	건물	BPRP_SE	건물용도 구분	종교시설	BDU006
+TN_BULD	건물	BPRP_SE	건물용도 구분	판매시설	BDU007
+TN_BULD	건물	BPRP_SE	건물용도 구분	운수시설	BDU008
+TN_BULD	건물	BPRP_SE	건물용도 구분	의료시설	BDU009
+TN_BULD	건물	BPRP_SE	건물용도 구분	교육연구시설	BDU010
+TN_BULD	건물	BPRP_SE	건물용도 구분	노유자(노인및어린이)시설	BDU011
+TN_BULD	건물	BPRP_SE	건물용도 구분	수련시설	BDU012
+TN_BULD	건물	BPRP_SE	건물용도 구분	운동시설	BDU013
+TN_BULD	건물	BPRP_SE	건물용도 구분	업무시설	BDU014
+TN_BULD	건물	BPRP_SE	건물용도 구분	숙박시설	BDU015
+TN_BULD	건물	BPRP_SE	건물용도 구분	위락시설	BDU016
+TN_BULD	건물	BPRP_SE	건물용도 구분	공장	BDU017
+TN_BULD	건물	BPRP_SE	건물용도 구분	창고시설	BDU018
+TN_BULD	건물	BPRP_SE	건물용도 구분	위험물저장및처리시설	BDU019
+TN_BULD	건물	BPRP_SE	건물용도 구분	자동차관련시설	BDU020
+TN_BULD	건물	BPRP_SE	건물용도 구분	동물및식물관련시설	BDU021
+TN_BULD	건물	BPRP_SE	건물용도 구분	분뇨및쓰레기처리시설	BDU022
+TN_BULD	건물	BPRP_SE	건물용도 구분	교정및군사시설	BDU023
+TN_BULD	건물	BPRP_SE	건물용도 구분	방송통신시설	BDU024
+TN_BULD	건물	BPRP_SE	건물용도 구분	발전시설	BDU025
+TN_BULD	건물	BPRP_SE	건물용도 구분	묘지관련시설	BDU026
+TN_BULD	건물	BPRP_SE	건물용도 구분	관광휴게시설	BDU027
+TN_BULD	건물	BPRP_SE	건물용도 구분	장례시설	BDU028
+TN_BULD	건물	BPRP_SE	건물용도 구분	야영장시설	BDU029
+TN_BULD	건물	BPRP_SE	건물용도 구분	기타시설	BDU999
+TN_BULD	건물	BULD_NM	건물 명칭		
+TN_BULD	건물	BATC_NM	건물부 명칭		
+TN_BULD	건물	BULD_SE	건물 구분	일반주택	BDC001
+TN_BULD	건물	BULD_SE	건물 구분	연립주택	BDC002
+TN_BULD	건물	BULD_SE	건물 구분	아파트	BDC003
+TN_BULD	건물	BULD_SE	건물 구분	주택외건물	BDC004
+TN_BULD	건물	BULD_SE	건물 구분	무벽건물	BDC005
+TN_BULD	건물	BULD_SE	건물 구분	온실	BDC006
+TN_BULD	건물	BULD_SE	건물 구분	공사중건물	BDC007
+TN_BULD	건물	BULD_SE	건물 구분	가건물	BDC008
+TN_BULD	건물	BFLR_CO	건물층 수		
+TN_BULD	건물	PNU_NO	PNU 번호		
+TN_BULD	건물	USECON_DE	사용승인 일		
+TN_BULD	건물	RNCODE_DC	도로명코드		
+TN_BULD	건물	BLDMN_NO	건물번호 본번		
+TN_BULD	건물	BLDSL_NO	건물번호 부번		
+TN_BULD	건물	REFNF_ID	참조NFID		
+TN_BULD	건물	OBJECT_GT	객체 지오메트리		
+TN_BULD	건물	OBCHG_DT	객체변동 일시		
+TN_BULD	건물	MESRMTH_SE	수정측량방법		
+TN_BULD	건물	RSREG_DT	성과등록 일시		
+TN_BULD	건물	CSCHG_SE	객체변동구분	객체생성	CSC001
+TN_BULD	건물	CSCHG_SE	객체변동구분	공간도형과 속성을 함께 수정	CSC002
+TN_BULD	건물	CSCHG_SE	객체변동구분	공간도형만 수정	CSC003
+TN_BULD	건물	CSCHG_SE	객체변동구분	공간도형 분할	CSC004
+TN_BULD	건물	CSCHG_SE	객체변동구분	공간도형 합병	CSC005
+TN_BULD	건물	CSCHG_SE	객체변동구분	위치 이동	CSC006
+TN_BULD	건물	CSCHG_SE	객체변동구분	속성만 수정	CSC007
+TN_BULD	건물	CSCHG_SE	객체변동구분	객체 삭제	CSC008
+TN_BULD	건물	MNENT_NM	제작업체 명		
+TN_BULD_CTPT	건물중심점	NF_ID	고유식별자 아이디		
+TN_BULD_CTPT	건물중심점	REFNF_ID	참조NFID		
+TN_BULD_CTPT	건물중심점	OBCHG_DT	객체변동 일시		
+TN_BULD_CTPT	건물중심점	MESRMTH_SE	수정측량방법		
+TN_BULD_CTPT	건물중심점	RSREG_DT	성과등록 일시		
+TN_BULD_CTPT	건물중심점	CSCHG_SE	객체변동구분	객체생성	CSC001
+TN_BULD_CTPT	건물중심점	CSCHG_SE	객체변동구분	공간도형과 속성을 함께 수정	CSC002
+TN_BULD_CTPT	건물중심점	CSCHG_SE	객체변동구분	공간도형만 수정	CSC003
+TN_BULD_CTPT	건물중심점	CSCHG_SE	객체변동구분	공간도형 분할	CSC004
+TN_BULD_CTPT	건물중심점	CSCHG_SE	객체변동구분	공간도형 합병	CSC005
+TN_BULD_CTPT	건물중심점	CSCHG_SE	객체변동구분	위치 이동	CSC006
+TN_BULD_CTPT	건물중심점	CSCHG_SE	객체변동구분	속성만 수정	CSC007
+TN_BULD_CTPT	건물중심점	CSCHG_SE	객체변동구분	객체 삭제	CSC008
+TN_BULD_CTPT	건물중심점	MNENT_NM	제작업체 명		
+TN_BULD_ADCLS	건물부속시설	NF_ID	고유식별자 아이디		
+TN_BULD_ADCLS	건물부속시설	ADCLS_SE	부속시설 구분	담장	ATD001
+TN_BULD_ADCLS	건물부속시설	ADCLS_SE	부속시설 구분	문주	ATD002
+TN_BULD_ADCLS	건물부속시설	OBJECT_GT	객체 지오메트리		
+TN_BULD_ADCLS	건물부속시설	OBCHG_DT	객체변동 일시		
+TN_BULD_ADCLS	건물부속시설	MESRMTH_SE	수정측량방법		
+TN_BULD_ADCLS	건물부속시설	RSREG_DT	성과등록 일시		
+TN_BULD_ADCLS	건물부속시설	CSCHG_SE	객체변동구분	객체생성	CSC001
+TN_BULD_ADCLS	건물부속시설	CSCHG_SE	객체변동구분	공간도형과 속성을 함께 수정	CSC002
+TN_BULD_ADCLS	건물부속시설	CSCHG_SE	객체변동구분	공간도형만 수정	CSC003
+TN_BULD_ADCLS	건물부속시설	CSCHG_SE	객체변동구분	공간도형 분할	CSC004
+TN_BULD_ADCLS	건물부속시설	CSCHG_SE	객체변동구분	공간도형 합병	CSC005
+TN_BULD_ADCLS	건물부속시설	CSCHG_SE	객체변동구분	위치 이동	CSC006
+TN_BULD_ADCLS	건물부속시설	CSCHG_SE	객체변동구분	속성만 수정	CSC007
+TN_BULD_ADCLS	건물부속시설	CSCHG_SE	객체변동구분	객체 삭제	CSC008
+TN_BULD_ADCLS	건물부속시설	MNENT_NM	제작업체 명		
+TN_ARSFC	면형구조시설	NF_ID	고유식별자 아이디		
+TN_ARSFC	면형구조시설	ARSFC_NM	면형구조시설 명칭		
+TN_ARSFC	면형구조시설	ARSFCKD_SE	면형구조시설종류 구분	계단	PGS001
+TN_ARSFC	면형구조시설	ARSFCKD_SE	면형구조시설종류 구분	스탠드	PGS002
+TN_ARSFC	면형구조시설	ARSFCKD_SE	면형구조시설종류 구분	기타	PGS999
+TN_ARSFC	면형구조시설	OBJECT_GT	객체 지오메트리		
+TN_ARSFC	면형구조시설	OBCHG_DT	객체변동 일시		
+TN_ARSFC	면형구조시설	MESRMTH_SE	수정측량방법		
+TN_ARSFC	면형구조시설	RSREG_DT	성과등록 일시		
+TN_ARSFC	면형구조시설	MNENT_NM	제작업체 명		
+TN_LNSFC	선형구조시설	NF_ID	고유식별자 아이디		
+TN_LNSFC	선형구조시설	LNSFC_NM	선형구조시설 명칭		
+TN_LNSFC	선형구조시설	LNSFCKD_SE	선형구조시설종류 구분	성(성벽)	LNS001
+TN_LNSFC	선형구조시설	LNSFCKD_SE	선형구조시설종류 구분	지하도입구	LNS002
+TN_LNSFC	선형구조시설	LNSFCKD_SE	선형구조시설종류 구분	지하주차장입구	LNS003
+TN_LNSFC	선형구조시설	LNSFCKD_SE	선형구조시설종류 구분	기타구조물	LNS999
+TN_LNSFC	선형구조시설	OBJECT_GT	객체 지오메트리		
+TN_LNSFC	선형구조시설	OBCHG_DT	객체변동 일시		
+TN_LNSFC	선형구조시설	MESRMTH_SE	수정측량방법		
+TN_LNSFC	선형구조시설	RSREG_DT	성과등록 일시		
+TN_LNSFC	선형구조시설	MNENT_NM	제작업체 명		
+TN_PTSFC	점형구조시설	NF_ID	고유식별자 아이디		
+TN_PTSFC	점형구조시설	PTSFC_NM	점형구조시설 명칭		
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	우물/약수터	POS001
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	온천시설	POS002
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	낚시터	POS003
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	광산(미분류)	POS100
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	광산(운영중)	POS101
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	광산(폐쇄)	POS102
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	채취장(미분류)	POS200
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	채취장(채석장)	POS201
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	채취장(토취장)	POS202
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	관측소(미분류)	POS300
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	관측소(수위)	POS301
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	관측소(유량)	POS302
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	관측소(수질)	POS303
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	관측소(풍향/풍속)	POS304
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	관측소(대기오염)	POS305
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	관측소(파랑)	POS306
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	관측소(지질)	POS307
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	관측소(지진)	POS308
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	문화재(미분류)	POS400
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	문화재(비/탑/각)	POS401
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	문화재(정자)	POS402
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	문화재(암자)	POS403
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	문화재(절)	POS404
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	문화재(절터)	POS405
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	문화재(능)	POS406
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	문화재(봉화대)	POS407
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	문화재(유적지)	POS408
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	탑(미분류)	POS500
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	탑(소방탑)	POS501
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	탑(저수탑)	POS502
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	탑(취수탑)	POS503
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	탑(전파탑)	POS504
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	탑(송전탑)	POS505
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	탑(시계탑)	POS506
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	탑(송수신탑)	POS507
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	탑(전망대)	POS508
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	탑(감시탑)	POS509
+TN_PTSFC	점형구조시설	PTSFCKD_SE	점형구조시설종류 구분	헬기장	POS601
+TN_PTSFC	점형구조시설	OBJECT_GT	객체 지오메트리		
+TN_PTSFC	점형구조시설	OBCHG_DT	객체변동 일시		
+TN_PTSFC	점형구조시설	MESRMTH_SE	수정측량방법		
+TN_PTSFC	점형구조시설	RSREG_DT	성과등록 일시		
+TN_PTSFC	점형구조시설	MNENT_NM	제작업체 명		
+TN_CTRLN	등고선	NF_ID	고유식별자 아이디		
+TN_CTRLN	등고선	CTRLN_SE	등고선 구분	계곡선	CTC001
+TN_CTRLN	등고선	CTRLN_SE	등고선 구분	주곡선	CTC002
+TN_CTRLN	등고선	CTRLN_SE	등고선 구분	간곡선	CTC003
+TN_CTRLN	등고선	CTRLN_SE	등고선 구분	조곡선	CTC004
+TN_CTRLN	등고선	TPGRPH_SE	지형 구분	볼록지	TPC001
+TN_CTRLN	등고선	TPGRPH_SE	지형 구분	오목지	TPC002
+TN_CTRLN	등고선	CTRLN_HG	등고선 높이		
+TN_CTRLN	등고선	OBJECT_GT	객체 지오메트리		
+TN_CTRLN	등고선	OBCHG_DT	객체변동 일시		
+TN_CTRLN	등고선	MESRMTH_SE	수정측량방법		
+TN_CTRLN	등고선	RSREG_DT	성과등록 일시		
+TN_CTRLN	등고선	MNENT_NM	제작업체 명		
+TN_ALPT	표고점	NF_ID	고유식별자 아이디		
+TN_ALPT	표고점	ALPT_HG	표고점 높이		
+TN_ALPT	표고점	OBJECT_GT	객체 지오메트리		
+TN_ALPT	표고점	OBCHG_DT	객체변동 일시		
+TN_ALPT	표고점	MESRMTH_SE	수정측량방법		
+TN_ALPT	표고점	RSREG_DT	성과등록 일시		
+TN_ALPT	표고점	MNENT_NM	제작업체 명		
+TN_SHORLINE	해안선	NF_ID	고유식별자 아이디		
+TN_SHORLINE	해안선	SHORLNE_SE	해안선 구분	육지	CLC001
+TN_SHORLINE	해안선	SHORLNE_SE	해안선 구분	섬	CLC002
+TN_SHORLINE	해안선	SHORLNE_OR	해안선 출처	국토지리정보원	CLS001
+TN_SHORLINE	해안선	SHORLNE_OR	해안선 출처	국립해양조사원	CLS002
+TN_SHORLINE	해안선	SHORLNE_ST	해안선 형태	자연해안선	CLT001
+TN_SHORLINE	해안선	SHORLNE_ST	해안선 형태	인공해안선	CLT002
+TN_SHORLINE	해안선	OBJECT_GT	객체 지오메트리		
+TN_SHORLINE	해안선	OBCHG_DT	객체변동 일시		
+TN_SHORLINE	해안선	MESRMTH_SE	수정측량방법		
+TN_SHORLINE	해안선	RSREG_DT	성과등록 일시		
+TN_SHORLINE	해안선	MNENT_NM	제작업체 명		
+TN_ARPGR	면형지형	NF_ID	고유식별자 아이디		
+TN_ARPGR	면형지형	ARPGR_NM	면형지형 명칭		
+TN_ARPGR	면형지형	ARPGR_SE	면형지형 구분	모래	PTG001
+TN_ARPGR	면형지형	ARPGR_SE	면형지형 구분	습지	PTG002
+TN_ARPGR	면형지형	ARPGR_SE	면형지형 구분	염전	PTG003
+TN_ARPGR	면형지형	ARPGR_SE	면형지형 구분	갯벌	PTG004
+TN_ARPGR	면형지형	ARPGR_SE	면형지형 구분	보행노면	PTG005
+TN_ARPGR	면형지형	OBJECT_GT	객체 지오메트리		
+TN_ARPGR	면형지형	OBCHG_DT	객체변동 일시		
+TN_ARPGR	면형지형	MESRMTH_SE	수정측량방법		
+TN_ARPGR	면형지형	RSREG_DT	성과등록 일시		
+TN_ARPGR	면형지형	MNENT_NM	제작업체 명		
+TN_LNPGR	선형지형	NF_ID	고유식별자 아이디		
+TN_LNPGR	선형지형	LNPGR_SE	선형지형 구분	성토상단	LTG001
+TN_LNPGR	선형지형	LNPGR_SE	선형지형 구분	성토하단	LTG002
+TN_LNPGR	선형지형	LNPGR_SE	선형지형 구분	절토상단	LTG003
+TN_LNPGR	선형지형	LNPGR_SE	선형지형 구분	절토하단	LTG004
+TN_LNPGR	선형지형	LNPGR_SE	선형지형 구분	옹벽상단	LTG005
+TN_LNPGR	선형지형	LNPGR_SE	선형지형 구분	옹벽하단	LTG006
+TN_LNPGR	선형지형	LNPGR_SE	선형지형 구분	석축상단	LTG007
+TN_LNPGR	선형지형	LNPGR_SE	선형지형 구분	석축하단	LTG008
+TN_LNPGR	선형지형	LNPGR_SE	선형지형 구분	벼랑바위	LTG009
+TN_LNPGR	선형지형	LNPGR_SE	선형지형 구분	너덜바위	LTG010
+TN_LNPGR	선형지형	LNPGR_SE	선형지형 구분	보행노선	LTG011
+TN_LNPGR	선형지형	LNPGR_SE	선형지형 구분	부지안경계선	LTG012
+TN_LNPGR	선형지형	LNPGR_LT	선형지형 길이		
+TN_LNPGR	선형지형	LNPGR_HG	선형지형 높이		
+TN_LNPGR	선형지형	OBJECT_GT	객체 지오메트리		
+TN_LNPGR	선형지형	OBCHG_DT	객체변동 일시		
+TN_LNPGR	선형지형	MESRMTH_SE	수정측량방법		
+TN_LNPGR	선형지형	RSREG_DT	성과등록 일시		
+TN_LNPGR	선형지형	MNENT_NM	제작업체 명		
+TN_PTPGR	점형지형	NF_ID	고유식별자 아이디		
+TN_PTPGR	점형지형	PTPGR_NM	점형지형 명칭		
+TN_PTPGR	점형지형	PTPGR_SE	점형지형 구분	폭포	PIT001
+TN_PTPGR	점형지형	PTPGR_SE	점형지형 구분	동굴입구	PIT002
+TN_PTPGR	점형지형	OBJECT_GT	객체 지오메트리		
+TN_PTPGR	점형지형	OBCHG_DT	객체변동 일시		
+TN_PTPGR	점형지형	MESRMTH_SE	수정측량방법		
+TN_PTPGR	점형지형	RSREG_DT	성과등록 일시		
+TN_PTPGR	점형지형	MNENT_NM	제작업체 명		
+TN_RIVER_CTLN	하천중심선	NF_ID	고유식별자 아이디		
+TN_RIVER_CTLN	하천중심선	RIVER_NO	하천 번호		
+TN_RIVER_CTLN	하천중심선	RIVER_NM	하천 명칭		
+TN_RIVER_CTLN	하천중심선	RIVER_SE	하천 구분	국가하천	RVC001
+TN_RIVER_CTLN	하천중심선	RIVER_SE	하천 구분	지방하천	RVC002
+TN_RIVER_CTLN	하천중심선	RIVER_SE	하천 구분	소하천	RVC003
+TN_RIVER_CTLN	하천중심선	RIVER_SE	하천 구분	기타하천	RVC004
+TN_RIVER_CTLN	하천중심선	RIVER_SE	하천 구분	세류	RVC005
+TN_RIVER_CTLN	하천중심선	OBJECT_GT	객체 지오메트리		
+TN_RIVER_CTLN	하천중심선	OBCHG_DT	객체변동 일시		
+TN_RIVER_CTLN	하천중심선	MESRMTH_SE	수정측량방법		
+TN_RIVER_CTLN	하천중심선	RSREG_DT	성과등록 일시		
+TN_RIVER_CTLN	하천중심선	MNENT_NM	제작업체 명		
+TN_RIVER_BNDRY	하천경계	NF_ID	고유식별자 아이디		
+TN_RIVER_BNDRY	하천경계	OBJECT_GT	객체 지오메트리		
+TN_RIVER_BNDRY	하천경계	OBCHG_DT	객체변동 일시		
+TN_RIVER_BNDRY	하천경계	MESRMTH_SE	수정측량방법		
+TN_RIVER_BNDRY	하천경계	RSREG_DT	성과등록 일시		
+TN_RIVER_BNDRY	하천경계	MNENT_NM	제작업체 명		
+TN_RIVER_BT	실폭하천	NF_ID	고유식별자 아이디		
+TN_RIVER_BT	실폭하천	OBJECT_GT	객체 지오메트리		
+TN_RIVER_BT	실폭하천	OBCHG_DT	객체변동 일시		
+TN_RIVER_BT	실폭하천	MESRMTH_SE	수정측량방법		
+TN_RIVER_BT	실폭하천	RSREG_DT	성과등록 일시		
+TN_RIVER_BT	실폭하천	MNENT_NM	제작업체 명		
+TN_LKMH	호소	NF_ID	고유식별자 아이디		
+TN_LKMH	호소	LKMH_NM	호소 명칭		
+TN_LKMH	호소	OBJECT_GT	객체 지오메트리		
+TN_LKMH	호소	OBCHG_DT	객체변동 일시		
+TN_LKMH	호소	MESRMTH_SE	수정측량방법		
+TN_LKMH	호소	RSREG_DT	성과등록 일시		
+TN_LKMH	호소	MNENT_NM	제작업체 명		
+TN_WTCORS_FCLTY	수로시설	NF_ID	고유식별자 아이디		
+TN_WTCORS_FCLTY	수로시설	WTCORFC_NM	수로시설 명칭		
+TN_WTCORS_FCLTY	수로시설	WTCORFC_SE	수로시설 구분	제방상단	WWF001
+TN_WTCORS_FCLTY	수로시설	WTCORFC_SE	수로시설 구분	제방하단	WWF002
+TN_WTCORS_FCLTY	수로시설	WTCORFC_SE	수로시설 구분	방조제상단	WWF003
+TN_WTCORS_FCLTY	수로시설	WTCORFC_SE	수로시설 구분	방조제하단	WWF004
+TN_WTCORS_FCLTY	수로시설	WTCORFC_SE	수로시설 구분	방파제상단	WWF005
+TN_WTCORS_FCLTY	수로시설	WTCORFC_SE	수로시설 구분	방파제하단	WWF006
+TN_WTCORS_FCLTY	수로시설	WTCORFC_SE	수로시설 구분	소파블럭	WWF007
+TN_WTCORS_FCLTY	수로시설	WTCORFC_SE	수로시설 구분	공업용수로	WWF008
+TN_WTCORS_FCLTY	수로시설	WTCORFC_SE	수로시설 구분	농업용수로	WWF009
+TN_WTCORS_FCLTY	수로시설	WTCORFC_SE	수로시설 구분	수문	WWF010
+TN_WTCORS_FCLTY	수로시설	WTCORFC_SE	수로시설 구분	배수갑문	WWF011
+TN_WTCORS_FCLTY	수로시설	WTCORFC_SE	수로시설 구분	보	WWF012
+TN_WTCORS_FCLTY	수로시설	WTCORFC_SE	수로시설 구분	암거	WWF013
+TN_WTCORS_FCLTY	수로시설	WTCORFC_SE	수로시설 구분	측구	WWF014
+TN_WTCORS_FCLTY	수로시설	WTCORFC_SE	수로시설 구분	잔교	WWF015
+TN_WTCORS_FCLTY	수로시설	OBJECT_GT	객체 지오메트리		
+TN_WTCORS_FCLTY	수로시설	OBCHG_DT	객체변동 일시		
+TN_WTCORS_FCLTY	수로시설	MESRMTH_SE	수정측량방법		
+TN_WTCORS_FCLTY	수로시설	RSREG_DT	성과등록 일시		
+TN_WTCORS_FCLTY	수로시설	MNENT_NM	제작업체 명		
+TN_FMLND_BNDRY	경지경계	NF_ID	고유식별자 아이디		
+TN_FMLND_BNDRY	경지경계	VTN_SE	식생 구분	논	VGC001
+TN_FMLND_BNDRY	경지경계	VTN_SE	식생 구분	밭	VGC002
+TN_FMLND_BNDRY	경지경계	VTN_SE	식생 구분	과수원	VGC003
+TN_FMLND_BNDRY	경지경계	VTN_SE	식생 구분	목초지	VGC004
+TN_FMLND_BNDRY	경지경계	VTN_SE	식생 구분	산지	VGC005
+TN_FMLND_BNDRY	경지경계	OBJECT_GT	객체 지오메트리		
+TN_FMLND_BNDRY	경지경계	OBCHG_DT	객체변동 일시		
+TN_FMLND_BNDRY	경지경계	MESRMTH_SE	수정측량방법		
+TN_FMLND_BNDRY	경지경계	RSREG_DT	성과등록 일시		
+TN_FMLND_BNDRY	경지경계	MNENT_NM	제작업체 명		
+TN_MTC_BNDRY	산지경계	NF_ID	고유식별자 아이디		
+TN_MTC_BNDRY	산지경계	VTN_SE	식생 구분	논	VGC001
+TN_MTC_BNDRY	산지경계	VTN_SE	식생 구분	밭	VGC002
+TN_MTC_BNDRY	산지경계	VTN_SE	식생 구분	과수원	VGC003
+TN_MTC_BNDRY	산지경계	VTN_SE	식생 구분	목초지	VGC004
+TN_MTC_BNDRY	산지경계	VTN_SE	식생 구분	산지	VGC005
+TN_MTC_BNDRY	산지경계	OBJECT_GT	객체 지오메트리		
+TN_MTC_BNDRY	산지경계	OBCHG_DT	객체변동 일시		
+TN_MTC_BNDRY	산지경계	MESRMTH_SE	수정측량방법		
+TN_MTC_BNDRY	산지경계	RSREG_DT	성과등록 일시		
+TN_MTC_BNDRY	산지경계	MNENT_NM	제작업체 명		
+TN_POI	관심지점	NF_ID	고유식별자 아이디		
+TN_POI	관심지점	POI_NM	관심지점 명칭		
+TN_POI	관심지점	POI_CL_DC	관심지점 분류 설명		
+TN_POI	관심지점	ORIGIN_SE	출처 구분	시도구역경계	ARB01000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	시군구구역경계	ARB02000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	읍면동구역경계	ARB03000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	시설구역경계	ARB04000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	차도중심선	TRN01000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	면형도로시설	TRN06000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	점형도로시설	TRN08000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	철도중심선	TRN09000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	면형철도시설	TRN11000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	점형철도시설	TRN12000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	면형공항시설	TRN13000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	점형공항시설	TRN15000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	면형항만시설	TRN16000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	점형항만시설	TRN17000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	차도노드	TRN19000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	철도노드	TRN22000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	건물	BLD01000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	면형구조시설	BLD03000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	선형구조시설	BLD04000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	점형구조시설	BLD05000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	면형지형	TPG04000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	점형지형	TPG06000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	하천중심선	WTR03000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	호소	WTR04000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	수로시설	WTR05000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	지명	GNM00000
+TN_POI	관심지점	ORIGIN_SE	출처 구분	외부수집POI	XCP00000
+TN_POI	관심지점	ENGL_NM	영어 명칭		
+TN_POI	관심지점	CHNLNG_NM	중국어 명칭		
+TN_POI	관심지점	JPN_NM	일본어 명칭		
+TN_POI	관심지점	OBJECT_GT	객체 지오메트리		
+TN_POI	관심지점	REFRN_ID	참조 아이디		
